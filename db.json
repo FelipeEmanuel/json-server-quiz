@@ -1,0 +1,5226 @@
+{
+  "usedQuestionsAnime": [],
+  "usedQuestionsGeral": [],
+  "usedQuestionsSeries": [],
+  "questionsGerais": [
+    {
+      "id": 1,
+      "question": "Em que estado brasileiro nasceu a apresentadora Xuxa?",
+      "options": [
+        "Rio de Janeiro",
+        "Rio Grande do Sul",
+        "Santa Catarina",
+        "Goiás"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 2,
+      "question": "Qual é o nome dado ao estado da água em forma de gelo?",
+      "options": [
+        "Líquido",
+        "Sólido",
+        "Gasoso",
+        "Vaporoso"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 3,
+      "question": "Qual era o apelido da cantora Elis Regina?",
+      "options": [
+        "Gauchinha",
+        "Paulistinha",
+        "Pimentinha",
+        "Andorinha"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 4,
+      "question": "Quem é a namorada do Mickey?",
+      "options": [
+        "Margarida",
+        "Minnie",
+        "A Pequena Sereia",
+        "Olívia Palito"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 5,
+      "question": "Qual é o personagem do folclore brasileiro que tem uma perna só?",
+      "options": [
+        "Cuca",
+        "Negrinho do Pastoreio",
+        "Boitatá",
+        "Saci-Pererê"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 6,
+      "question": "Fidel Castro nasceu em que país?",
+      "options": [
+        "Jamaica",
+        "Cuba",
+        "El Salvador",
+        "México"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 7,
+      "question": "Quem proclamou a república no Brasil em 1889?",
+      "options": [
+        "Duque de Caxias",
+        "Marechal Rondon",
+        "Dom Pedro II",
+        "Marechal Deodoro"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 8,
+      "question": "Quem é o patrono do exército brasileiro?",
+      "options": [
+        "Marechal Deodoro",
+        "Barão de Mauá",
+        "Duque de Caxias",
+        "Marquês de Pombal"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 9,
+      "question": "Quem era o apresentador que reprovava os calouros tocando uma buzina?",
+      "options": [
+        "Raul Gil",
+        "Bolinha",
+        "Flávio Cavalcanti",
+        "Chacrinha"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10,
+      "question": "O que era Frankenstein, de Mary Shelley?",
+      "options": [
+        "Monstro",
+        "Gorila",
+        "Príncipe",
+        "Sapo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 11,
+      "question": "Qual é o signo do zodíaco de quem nasce no dia do ano-novo?",
+      "options": [
+        "Virgem",
+        "Aquário",
+        "Capricórnio",
+        "Áries"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 12,
+      "question": "Quem fundou a fábrica de automóveis Ford?",
+      "options": [
+        "Harrison Ford",
+        "Gerald Ford",
+        "Henry Ford",
+        "Anna Ford"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 13,
+      "question": "Qual é a cor que se associa com os grupos ecológicos?",
+      "options": [
+        "Preta",
+        "Vermelha",
+        "Azul",
+        "Verde"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 14,
+      "question": "A água ferve a quantos graus centígrados?",
+      "options": [
+        "200",
+        "100",
+        "170",
+        "220"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 15,
+      "question": "Quando é comemorado o dia da independência do Brasil?",
+      "options": [
+        "21 de Abril",
+        "12 de Outubro",
+        "7 de Setembro",
+        "25 de Dezembro"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 16,
+      "question": "Qual lugar é também chamado de Santa Sé?",
+      "options": [
+        "Veneza",
+        "Vitória",
+        "Vancouver",
+        "Vaticano"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 17,
+      "question": "Quem tem por lema a frase: “Sempre alerta”?",
+      "options": [
+        "Médicos",
+        "Escoteiros",
+        "Bombeiros",
+        "Policiais"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 18,
+      "question": "Quem foi o grande amor de Julieta?",
+      "options": [
+        "Romeu",
+        "Orfeu",
+        "Hamlet",
+        "Iago"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 19,
+      "question": "Quantos signos formam o zodíaco?",
+      "options": [
+        "Nove",
+        "Dez",
+        "Onze",
+        "Doze"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 20,
+      "question": "Vatapá é uma comida típica de qual estado?",
+      "options": [
+        "Paraná",
+        "Santa Catarina",
+        "São Paulo",
+        "Bahia"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 21,
+      "question": "Como se chama o lugar onde são armazenadas as balas de um revólver?",
+      "options": [
+        "Cano",
+        "Tambor",
+        "Agulha",
+        "Gatilho"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 22,
+      "question": "Qual personagem da Turma da Mônica tem apenas cinco fios de cabelo?",
+      "options": [
+        "Mônica",
+        "Cebolinha",
+        "Cascão",
+        "Magali"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 23,
+      "question": "Qual cantora tinha o apelido de ‘Ternurinha’ na época da Jovem Guarda?",
+      "options": [
+        "Silvinha",
+        "Wanderléia",
+        "Gretchen",
+        "Martinha"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 24,
+      "question": "O churrasco é considerado uma comida típica de qual estado?",
+      "options": [
+        "Ceará",
+        "Rio Grande do Sul",
+        "Pará",
+        "Maranhão"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 25,
+      "question": "Qual cantor é o pai da dupla Sandy e Júnior?",
+      "options": [
+        "Leonardo",
+        "Xororó",
+        "Zezé di Camargo",
+        "Chitãozinho"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 26,
+      "question": "Quem foi o criador dos personagens Pedrinho, Narizinho e Emília?",
+      "options": [
+        "Maurício de Sousa",
+        "Ziraldo",
+        "Monteiro Lobato",
+        "Machado de Assis"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 27,
+      "question": "Quem fundou a Microsoft?",
+      "options": [
+        "Sultão de Brunei",
+        "Akio Morita",
+        "Bill Gates",
+        "Príncipe Charles"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 28,
+      "question": "Qual é o nome dado ao pneu reserva do carro?",
+      "options": [
+        "Calota",
+        "Estepe",
+        "Macaco",
+        "Chave de Roda"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 29,
+      "question": "Qual é o nome do cachorro medroso do Salsicha, dos desenhos animados?",
+      "options": [
+        "Floquinho",
+        "Rin-Tin-Tin",
+        "Lassie",
+        "Scooby-Doo"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 30,
+      "question": "Quantas dentições naturais tem o ser humano durante a vida?",
+      "options": [
+        "Uma",
+        "Duas",
+        "Três",
+        "Quatro"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 31,
+      "question": "Edinho, filho de Pelé, jogou no Santos em que posição?",
+      "options": [
+        "Zagueiro",
+        "Goleiro",
+        "Atacante",
+        "Armador"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 32,
+      "question": "Qual é a pedra preciosa mais dura encontrada na natureza?",
+      "options": [
+        "Esmeralda",
+        "Rubi",
+        " Pérola",
+        "Diamante"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 33,
+      "question": "Como se chama o lugar onde se guardam vinhos?",
+      "options": [
+        "Adega",
+        "Biblioteca",
+        "Sótao",
+        "Sala"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 34,
+      "question": "Qual cantor ficou conhecido como ‘o rei do rock’?",
+      "options": [
+        "Frank Sinatra",
+        "Little Richard",
+        "Elvis Presley",
+        "Richie Valens"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 35,
+      "question": "Quem é o inimigo do Piu-Piu nos desenhos animados?",
+      "options": [
+        "Félix",
+        "Tom",
+        "Frajola",
+        "Mingau"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 36,
+      "question": "Joana Prado é o nome verdadeiro de qual artista?",
+      "options": [
+        "Tiazinha",
+        "Feiticeira",
+        "Lady Lu",
+        "Sheila Mello"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 37,
+      "question": "Quantos dias tem um ano bissexto?",
+      "options": [
+        "364",
+        "365",
+        "366",
+        "367"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 38,
+      "question": "Qual é o réptil que muda de cor conforme o lugar em que está?",
+      "options": [
+        "Sapo",
+        "Camaleão",
+        "Lagarto",
+        "Jacaré"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 39,
+      "question": "Qual é a duração de cada tempo de uma partida de futebol?",
+      "options": [
+        "45 Minutos",
+        "90 Minutos",
+        "120 Minutos",
+        "150 Minutos"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 40,
+      "question": "Onde fica o centro da indústria cinematográfica nos EUA?",
+      "options": [
+        "Nova York",
+        "Las Vegas",
+        "New Orleans",
+        "Hollywood"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 41,
+      "question": "Qual era o código da identidade secreta de James Bond?",
+      "options": [
+        "707",
+        "907",
+        "008",
+        "007"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 42,
+      "question": "Qual é a fruta associada com a cidade de Laranjal?",
+      "options": [
+        "Melancia",
+        "Laranja",
+        "Maçã",
+        "Uva"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 43,
+      "question": "Quantos centavos equivalem a um real?",
+      "options": [
+        "Dez",
+        "Mil",
+        "Cem",
+        "Cinqüenta"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 44,
+      "question": "De acordo com a Bíblia, qual era o ‘fruto proibido’?",
+      "options": [
+        "Mamão",
+        "Maçã",
+        "Uva",
+        "Abacaxi"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 45,
+      "question": "Como é conhecida a ponte que liga Rio de Janeiro a Niterói?",
+      "options": [
+        "Golden Gate",
+        "Rio-Niterói",
+        "Rio São Francisco",
+        "Brooklin"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 46,
+      "question": "Em que ano os portugueses descobriram o Brasil?",
+      "options": [
+        "1450",
+        "1500",
+        "1550",
+        "1400"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 47,
+      "question": "O que é medido por um termômetro?",
+      "options": [
+        "Longitude",
+        "Umidade",
+        "Temperatura",
+        "Latitude"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 48,
+      "question": "O rio Amazonas pertence a qual continente?",
+      "options": [
+        "Americano",
+        "Africano",
+        "Europeu",
+        "Asiático"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 49,
+      "question": "Quem esculpiu o boneco Pinóquio, no conto de Carlo Lorenzini?",
+      "options": [
+        "Gepeto",
+        "Fada",
+        "Bruxa",
+        "Gigante"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 50,
+      "question": "Qual é a moeda oficial dos Estados Unidos?",
+      "options": [
+        "Escudo",
+        "Coroa",
+        "Dólar",
+        "Libra"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 51,
+      "question": "Qual foi o placar no final da Copa de 98, quando o Brasil perdeu para a França?",
+      "options": [
+        "Dois a Zero",
+        "Três a Zero",
+        "Quatro a Zero",
+        "Cinco a Zero"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 52,
+      "question": "Quantas folhas tem um trevo da sorte?",
+      "options": [
+        "Três",
+        "Quatro",
+        "Cinco",
+        "Seis"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 53,
+      "question": "Qual é a cidade conhecida como ‘terra da garoa’?",
+      "options": [
+        "Rio de Janeiro",
+        "Porto Alegre",
+        "Piracicaba",
+        "São Paulo"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 54,
+      "question": "Qual ator do cinema brasileiro é conhecido por ter unhas enormes?",
+      "options": [
+        "Penadinho",
+        "Zé do Caixão",
+        "Zé do Casarão",
+        "Toninho do Diabo"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 55,
+      "question": "O violoncelo é um tipo de instrumento de?",
+      "options": [
+        "Sopro",
+        "Cordas",
+        "Percussão",
+        "Repercussão"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 56,
+      "question": "Com que fruta a Branca de Neve foi envenenada?",
+      "options": [
+        "Maçã",
+        "Pêra",
+        "Melão",
+        "Laranja"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 57,
+      "question": "Quem foi técnico da Seleção Brasileira de Futebol na Copa de 98?",
+      "options": [
+        "Zagallo",
+        "Scolari",
+        "Luxemburgo",
+        "Carpegianni"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 58,
+      "question": "Em que cidade é realizada a corrida de São Silvestre?",
+      "options": [
+        "Belo Horizonte",
+        "Rio de Janeiro",
+        "São Paulo",
+        "Salvador"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 59,
+      "question": "Qual é a área da medicina que trata de crianças?",
+      "options": [
+        "Geriatria",
+        "Pediatria",
+        "Infantologia",
+        "Biologia"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 60,
+      "question": "O saquê é uma bebida típica de qual país?",
+      "options": [
+        "Estados Unidos",
+        "Japão",
+        "Coréia do Sul",
+        "China"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 61,
+      "question": "O dromedário tem quantas corcovas?",
+      "options": [
+        "Uma",
+        "Duas",
+        "Três",
+        "Quatro"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 62,
+      "question": "Um adulto sadio tem quantos dentes na boca?",
+      "options": [
+        "18",
+        "24",
+        "32",
+        "36"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 63,
+      "question": "Qual dos sete anões usa óculos?",
+      "options": [
+        "Dunga",
+        "Zangado",
+        "Dengoso",
+        "Mestre"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 64,
+      "question": "Quem é o Homem de Aço das histórias em quadrinhos?",
+      "options": [
+        "Batman",
+        "Huck",
+        "He-Man",
+        "Super-Homem"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 65,
+      "question": "Cavalo, rainha e torre são peças de qual jogo?",
+      "options": [
+        "Damas",
+        "Xadrez",
+        "Ludo",
+        "Dominó"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 66,
+      "question": "Turmalina é uma espécie de quê?",
+      "options": [
+        "Flor",
+        "Fruto",
+        "Pedra",
+        "Verdura"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 67,
+      "question": "Qual é o santo casamenteiro?",
+      "options": [
+        "São Pedro",
+        "São Paulo",
+        "São João",
+        "Santo Antônio"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 68,
+      "question": "Quem ocupou o cargo de Ministro da Saúde do Brasil no ano de 2000?",
+      "options": [
+        "Adib Jatene",
+        "José Serra",
+        "Ciro Gomes",
+        "Pedro Malan"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 69,
+      "question": "Segundo a Bíblia, quem foi morto por Caim?",
+      "options": [
+        "Adão",
+        "Isaac",
+        "Abel",
+        "Abraão"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 70,
+      "question": "Qual é o livro dividido em Velho Testamento e Novo Testamento?",
+      "options": [
+        "Bíblia",
+        "Enciclopédia",
+        "Dicionário",
+        "Atlas"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 71,
+      "question": "Qual objeto é usado como arma pelo Pingüim do Batman?",
+      "options": [
+        "Guarda-chuva",
+        "Chapéis",
+        "Galocha",
+        "Capa"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 72,
+      "question": "Qual ser mitológico possui o corpo metade mulher e metade peixe?",
+      "options": [
+        "Sereia",
+        "Medusa",
+        "Cleópatra",
+        "Serena"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 73,
+      "question": "Qual foi o nome dado ao movimento liderado por Tiradentes?",
+      "options": [
+        "Revolução Francesa",
+        "Guerra dos Emboabas",
+        "Inconfidência Mineira",
+        "Segunda Guerra Mundial"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 74,
+      "question": "Qual é o país de origem do vinho champanha?",
+      "options": [
+        "América",
+        "Holanda",
+        "França",
+        "Suécia"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 75,
+      "question": "Qual destes elementos se forma dentro das ostras?",
+      "options": [
+        "Diamante",
+        "Pérola",
+        "Rubi",
+        "Esmeralda"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 76,
+      "question": "Quando é comemorado o dia da mentira no Brasil?",
+      "options": [
+        "26 de Dezembro",
+        "7 de Setembro",
+        "1 de Abril",
+        "15 de Novembro"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 77,
+      "question": "Em que estado nasceu a cantora Elba Ramalho?",
+      "options": [
+        "Paraíba",
+        "Ceará",
+        "Bahia",
+        "Alagoas"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 78,
+      "question": "Quando é comemorado o dia da criança?",
+      "options": [
+        "12 de Outubro",
+        "1 de Abril",
+        "13 de Maio",
+        "9 de Julho"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 79,
+      "question": "De qual lugar o personagem Tarzan era considerado rei?",
+      "options": [
+        "Da Selva",
+        "Da Noite",
+        "Da Tasmânia",
+        "Das Mulheres"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 80,
+      "question": "Quem é a mulher do Tarzan?",
+      "options": [
+        "Diana",
+        "Louis Laine",
+        "Jane",
+        "Chita"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 81,
+      "question": "Qual é o animal que puxa o trenó do Papai Noel?",
+      "options": [
+        "Cavalo",
+        "Rena",
+        "Touro",
+        "Jumento"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 82,
+      "question": "Capixaba é quem nasce em qual estado brasileiro?",
+      "options": [
+        "Espírito Santo",
+        "Rio Grande do Norte",
+        "Santa Catarina",
+        "Paraná"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 83,
+      "question": "Quantos titulares possui uma equipe de vôlei?",
+      "options": [
+        "Cinco",
+        "Seis",
+        "Sete",
+        "Oito"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 84,
+      "question": "Qual é o profissional que conduz o elevador?",
+      "options": [
+        "Condutor",
+        "Operador",
+        "Ascensorista",
+        "Recepcionista"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 85,
+      "question": "Segundo a Bíblia, quantos apóstolos tinha Jesus Cristo?",
+      "options": [
+        "Dez",
+        "Onze",
+        "Doze",
+        "Treze"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 86,
+      "question": "Em qual país surgiu a máfia?",
+      "options": [
+        "Estados Unidos",
+        "Inglaterra",
+        "Itália",
+        "Espanha"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 87,
+      "question": "Qual é o profissional que usa o estetoscópio?",
+      "options": [
+        "Engenheiro",
+        "Mecânico",
+        "Médico",
+        "Aviador"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 88,
+      "question": "Fernando Henrique Cardoso é formado em que área?",
+      "options": [
+        "Administração",
+        "Economia",
+        "Direito",
+        "Sociologia"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 89,
+      "question": "Qual destes é considerado o mês das noivas?",
+      "options": [
+        "Setembro",
+        "Junho",
+        "Maio",
+        "Outubro"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 90,
+      "question": "Quem inventou o telefone?",
+      "options": [
+        "Graham Bell",
+        "George Washington",
+        "Thomas Edison",
+        "Marconi"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 91,
+      "question": "Qual é o esporte praticado com pequenos aviões de controle remoto?",
+      "options": [
+        "Automobilismo",
+        "Iatismo",
+        "Aeromodelismo",
+        "Atletismo"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 92,
+      "question": "Qual é o significado da frase inglesa 'I love you'?",
+      "options": [
+        "Bom-dia",
+        "Até logo",
+        "Eu amo você",
+        "Estou com fome"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 93,
+      "question": "Qual personagem lidera o bando da floresta de Sherwood?",
+      "options": [
+        "Robin Cook",
+        "Robin Banks",
+        "Robin Hood",
+        "Robin Days"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 94,
+      "question": "Qual é a cor da pedra rubi?",
+      "options": [
+        "Azul",
+        "Verde",
+        "Amarela",
+        "Vermelha"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 95,
+      "question": "Qual é a planta que fortalece o marinheiro Popeye?",
+      "options": [
+        "Alface",
+        "Espinafre",
+        "Cenoura",
+        "Repolho"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 96,
+      "question": "Quando é comemorado o dia de Santo Antônio?",
+      "options": [
+        "12 de Agosto",
+        "11 de Janeiro",
+        "7 de Setembro",
+        "13 de Junho"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 97,
+      "question": "Qual era a profissão exercida por Lula, antes de ele ser presidente do PT?",
+      "options": [
+        "Engraxate",
+        "Pedreiro",
+        "Feirante",
+        "Metalúrgico"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 98,
+      "question": "Quem foi o amor do imperador Marco Antônio?",
+      "options": [
+        "Sherazade",
+        "Lady Godiva",
+        "Cleópatra",
+        "Julieta"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 99,
+      "question": "Qual estação do ano fica entre o verão e o inverno?",
+      "options": [
+        "Verão",
+        "Outono",
+        "Inverno",
+        "Primavera"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 100,
+      "question": "Como Joana d'Arc foi morta?",
+      "options": [
+        "Enforcada",
+        "Afogada",
+        "Queimada",
+        "Asfixiada"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 101,
+      "question": "Que imperador pôs fogo em Roma?",
+      "options": [
+        "Trajano",
+        "Nero",
+        "Brutus",
+        "Calígula"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 102,
+      "question": "A cidade de Pompéia, que foi soterrada por um vulcão, fica em qual desses países?",
+      "options": [
+        "Japão",
+        "México",
+        "Itália",
+        "Estados Unidos"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 103,
+      "question": "Como é chamado quem nasce em Milão, na Itália?",
+      "options": [
+        "Milanense",
+        "Milanoso",
+        "Milista",
+        "Milanês"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 104,
+      "question": "Que profissional usa uma ferramenta chamada formão?",
+      "options": [
+        "Carpinteiro",
+        "Relogueiro",
+        "Confeiteiro",
+        "Bombeiro"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 105,
+      "question": "Em qual estádio Pelé marcou seu milésimo gol?",
+      "options": [
+        "Morumbi",
+        "Pacaembu",
+        "Maracanã",
+        "Mineirão"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 106,
+      "question": "O que é um oboé?",
+      "options": [
+        "Vulcão",
+        "Comida",
+        "Instrumento Musical",
+        "Tribo Indígena"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 107,
+      "question": "Como eram chamados os pilotos suicidas da Segunda Guerra?",
+      "options": [
+        "Camicases",
+        "Sashimis",
+        "Haraquiris",
+        "Sumôs"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 108,
+      "question": "O que é gôndola?",
+      "options": [
+        "Embarcação",
+        "Brinquedo",
+        "Música",
+        "Símbolo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 109,
+      "question": "Sashimi é um prato originário de qual país?",
+      "options": [
+        "Japão",
+        "China",
+        "Índia",
+        "Indonésia"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 110,
+      "question": "Como é chamada a cantora que representa o papel principal em uma ópera?",
+      "options": [
+        "Primeira Dama",
+        "Dona-Prima",
+        "Prima-Dona",
+        "Obra-Prima"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 111,
+      "question": "Peroba é uma espécie de?",
+      "options": [
+        "Inseto",
+        "Árvore",
+        "Verme",
+        "Verdura"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 112,
+      "question": "O alpinismo é praticado em que lugar?",
+      "options": [
+        "Mar",
+        "Montanha",
+        "Rio",
+        "Praia"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 113,
+      "question": "O Coliseu é um monumento histórico de que cidade europeia?",
+      "options": [
+        "Paris",
+        "Copenhague",
+        "Roma",
+        "Londres"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 114,
+      "question": "Qual é o ponto mais alto da Terra?",
+      "options": [
+        "Everest",
+        "Monte Sinai",
+        "Monte Castelo",
+        "Mont Blanc"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 115,
+      "question": "Que rio corta a cidade de Londres, na Inglaterra?",
+      "options": [
+        "Tâmisa",
+        "Sena",
+        "Reno",
+        "Aube"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 116,
+      "question": "Qual é a raça do personagem principal do filme 'Beethoven'?",
+      "options": [
+        "Fila",
+        "Pastor Alemão",
+        "Poodle",
+        "São-Bernardo"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 117,
+      "question": "Quem foi eleito presidente da África do Sul em 1994?",
+      "options": [
+        "Nelson Piquet",
+        "Nelson Mandela",
+        "Nelson Ned",
+        "John Nelson"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 118,
+      "question": "Qual cantor ficou conhecido como 'O rei da voz'?",
+      "options": [
+        "Orlando Silva",
+        "Vicente Celestino",
+        "Francisco Alves",
+        "Carlos Galhardo"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 119,
+      "question": "Quantos quilates tem o ouro puro?",
+      "options": [
+        "18",
+        "20",
+        "24",
+        "30"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 120,
+      "question": "Qual é a sigla da Organização das Nações Unidas?",
+      "options": [
+        "ONU",
+        "FMI",
+        "CIA",
+        "OTAN"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 121,
+      "question": "De quantos em quantos anos aparece o cometa Halley?",
+      "options": [
+        "57 Anos",
+        "67 Anos",
+        "76 Anos",
+        "79 Anos"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 122,
+      "question": "Segundo a crença popular, a mula-sem-cabeça é mulher de quem?",
+      "options": [
+        "Do Coroinha",
+        "Do Padre",
+        "Do Sacristão",
+        "Do Bispo"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 123,
+      "question": "Que atriz protagonizou o filme 'Titanic'?",
+      "options": [
+        "Cameron Diaz",
+        "Kate Winslet",
+        "Bridget Fonda",
+        "Catherine Zetta Jones"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 124,
+      "question": "Como é chamada a doença que causa perda desigual da melanina?",
+      "options": [
+        "Astigmatismo",
+        "Tendinite",
+        "Vitiligo",
+        "Vitinga"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 125,
+      "question": "Quem realizou a primeira cirurgia de ponte de safena no Brasil?",
+      "options": [
+        "Dr. Zerbini",
+        "Dr. Fritz",
+        "Dr. Jatene",
+        "Dr. Calligari"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 126,
+      "question": "No filme, quem era parceiro de crimes da Bonnie?",
+      "options": [
+        "Bill",
+        "Clyde",
+        "James",
+        "Butch"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 127,
+      "question": "Qual é a moeda oficial da Alemanha?",
+      "options": [
+        "Lira",
+        "Marco",
+        "Franco",
+        "Libra"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 128,
+      "question": "Quem foi o assassino de Lee Harvey Oswald?",
+      "options": [
+        "Jack Ruby",
+        "John Wilkes Booth",
+        "Pat Garret",
+        "Charlotte Corday"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 129,
+      "question": "Quem é o parceiro de aventuras de Dom Quixote?",
+      "options": [
+        "Sancho Pança",
+        "Guilherme Tell",
+        "Sigmund Freud",
+        "Lancelot"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 130,
+      "question": "Nas histórias do Snoopy, qual é o nome do passarinho?",
+      "options": [
+        "Piu-Piu",
+        "Woodstock",
+        "Canarinho",
+        "Rouxinol"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 131,
+      "question": "Quantos jogadores um jogo de vôlei reúne na quadra?",
+      "options": [
+        "Seis",
+        "Oito",
+        "Dez",
+        "Doze"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 132,
+      "question": "Qual é o país do tango?",
+      "options": [
+        "Uruguai",
+        "Argentina",
+        "Paraguai",
+        "Espanha"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 133,
+      "question": "Que humorista, falecido em 1999, foi baterista de Raul Seixas?",
+      "options": [
+        "Lilico",
+        "Roni Cócegas",
+        "Grande Otelo",
+        "Mazzaropi"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 134,
+      "question": "O que os filatelistas colecionam?",
+      "options": [
+        "Quadros",
+        "Moedas",
+        "Selos",
+        "Figurinhas"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 135,
+      "question": "Quem pintou o quadro 'La Gioconda', conhecido como 'Mona Lisa'?",
+      "options": [
+        "Leonardo da Vinci",
+        "Ticiano",
+        "Rafael",
+        "Michelângelo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 136,
+      "question": "Em que cidade está situada a famosa Praça Vermelha?",
+      "options": [
+        "Moscou",
+        "Berlim",
+        "Paris",
+        "Roma"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 137,
+      "question": "Qual é o nome do vulcão que sepultou cidades na Itália no ano de 79?",
+      "options": [
+        "Vênus",
+        "Vesúvio",
+        "Varsóvia",
+        "Veneza"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 138,
+      "question": "Quando começou e terminou a Primeira Guerra Mundial?",
+      "options": [
+        "1914-1919",
+        "1939-1945",
+        "1921-1932",
+        "1912-1915"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 139,
+      "question": "Qual é a letra do alfabeto que simboliza o número dez em algarismo romano?",
+      "options": [
+        "V",
+        "D",
+        "L",
+        "X"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 140,
+      "question": "Qual é a história que Francis Ford Coppola dirigiu em três partes?",
+      "options": [
+        "Titanic",
+        "Sexta-Feira 13",
+        "O Poderoso Chefão",
+        "Guerra nas Estrelas"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 141,
+      "question": "Que animais são criados nas pocilgas?",
+      "options": [
+        "Camelos",
+        "Búfalos",
+        "Carneiros",
+        "Porcos"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 142,
+      "question": "Quem foi o diretor do filme 'A Lista de Schindler'?",
+      "options": [
+        "Clint Eastwood",
+        "Steven Spielberg",
+        "Stanley Kubrick",
+        "Pedro Almodóvar"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 143,
+      "question": "Qual é o alimento produzido pela moagem dos grãos de cacau?",
+      "options": [
+        "Parafina",
+        "Açúcar",
+        "Chocolate",
+        "Café"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 144,
+      "question": "Quem introduziu o futebol no Brasil?",
+      "options": [
+        "Pelé",
+        "João Havelange",
+        "Charles Miller",
+        "Paulo Machado"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 145,
+      "question": "Em que continente se situa o rio Nilo?",
+      "options": [
+        "Africano",
+        "Europeu",
+        "Americano",
+        "Asiático"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 146,
+      "question": "Que colônia britânica foi devolvida à China em 1997?",
+      "options": [
+        "Pequim",
+        "Hanói",
+        "Hiroshima",
+        "Hong Kong"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 147,
+      "question": "Nova Delhi é a capital de que país?",
+      "options": [
+        "Índia",
+        "Islândia",
+        "Paquistão",
+        "México"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 148,
+      "question": "O que leva o sangue do coração para o corpo?",
+      "options": [
+        "Veias",
+        "Músculos",
+        "Artérias",
+        "Ossos"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 149,
+      "question": "Como é chamado o objeto falsificado vendido como original?",
+      "options": [
+        "Pirarucu",
+        "Perneta",
+        "Pirata",
+        "Papagaio"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 150,
+      "question": "Em que matéria estuda-se álgebra na escola?",
+      "options": [
+        "Matemática",
+        "Biologia",
+        "Química",
+        "Física"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 151,
+      "question": "Qual é o nome original do filme 'O Médico e o Monstro'?",
+      "options": [
+        "Masters e Johnson",
+        "Dr. Jekyll e Mr. Hyde",
+        "Bonnie e Clyde",
+        "D. Quixote e Sancho Pança"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 152,
+      "question": "Que atriz casou com Joe Dimaggio e Arthur Miller?",
+      "options": [
+        "Glenda Jackson",
+        "Margaret Beckett",
+        "Marilyn Monroe",
+        "Elizabeth Taylor"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 153,
+      "question": "Quem disse a frase: 'Vim, vi e venci'?",
+      "options": [
+        "Júlio César",
+        "Calígula",
+        "Nero",
+        "Marco Antônio"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 154,
+      "question": "Que nome se dá à volta dos cardumes de peixes para a nascente do rio?",
+      "options": [
+        "Pororoca",
+        "Perereca",
+        "Pirapora",
+        "Piracema"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 155,
+      "question": "Qual é o país que participou de todas as Copas do Mundo de futebol, até 1998?",
+      "options": [
+        "Itália",
+        "Uruguai",
+        "Argentina",
+        "Brasil"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 156,
+      "question": "Quais são os naipes vermelhos do baralho?",
+      "options": [
+        "Ouros e Copas",
+        "Copas e Paus",
+        "Paus e Ouros",
+        "Espadas e Paus"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 157,
+      "question": "Qual é o nome verdadeiro do Batman?",
+      "options": [
+        "Bruce Wayne",
+        "Dexter",
+        "Clark Kent",
+        "Lex Luthor"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 158,
+      "question": "Beirute é a capital de que país?",
+      "options": [
+        "Síria",
+        "Nepal",
+        "Mongólia",
+        "Líbano"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 159,
+      "question": "O que é um contratorpedeiro?",
+      "options": [
+        "Tanque",
+        "Navio de Guerra",
+        "Dirigível",
+        "Avião de Caça"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 160,
+      "question": "Às margens de que riacho foi proclamada a Independência do Brasil?",
+      "options": [
+        "Cambuci",
+        "Sacomã",
+        "Ipiranga",
+        "São Francisco"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 161,
+      "question": "O ‘Super Bowl’ faz parte de qual esporte?",
+      "options": [
+        "Baseball",
+        "Basquete",
+        "Futebol Americano",
+        "Golf"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 162,
+      "question": "Qual é o nome da embarcação típica do litoral nordestino brasileiro?",
+      "options": [
+        "Submarino",
+        "Jet Ski",
+        "Jangada",
+        "Lancha"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 163,
+      "question": "Que metal avermelhado cria uma camada esverdeada em contato com a umidade?",
+      "options": [
+        "Ferro",
+        "Cobre",
+        "Mercúrio",
+        "Aço"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 164,
+      "question": "Que planta era usada para fabricação de papel no antigo Egito?",
+      "options": [
+        "Papiro",
+        "Eucalipto",
+        "Oliveira",
+        "Milho"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 165,
+      "question": "Que país europeu tem como atração a tourada?",
+      "options": [
+        "Espanha",
+        "Itália",
+        "França",
+        "Alemanha"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 166,
+      "question": "Em 1991, que esportista americano se afastou do basquete por ser HIV positivo?",
+      "options": [
+        "Michael Jordan",
+        "Magic Johnson",
+        "Dennis Rodman",
+        "Mike Tyson"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 167,
+      "question": "Qual é o nome do cachorro de Charlie Brown?",
+      "options": [
+        "Pluto",
+        "Floquinho",
+        "Baleia",
+        "Snoopy"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 168,
+      "question": "Qual presidente dos Estados Unidos foi ator de cinema?",
+      "options": [
+        "Ronald Reagan",
+        "George Bush",
+        "Richard Nixon",
+        "Bill Clinton"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 169,
+      "question": "Como é chamado o templo sagrado dos judeus?",
+      "options": [
+        "Igreja",
+        "Capela",
+        "Sinagoga",
+        "Catedral"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 170,
+      "question": "A que categoria pertence o cavalo-marinho?",
+      "options": [
+        "Molusco",
+        "Crustáceo",
+        "Peixe",
+        "Mamífero"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 171,
+      "question": "O FBI é a polícia federal de qual país?",
+      "options": [
+        "Inglaterra",
+        "Estados Unidos",
+        "Canadá",
+        "França"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 172,
+      "question": "Em que cidade brasileira fica o Instituto Tecnológico de Aeronáutica?",
+      "options": [
+        "São José do Rio Preto",
+        "São José dos Pinhas",
+        "São José dos Campos",
+        "São José dos Santos"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 173,
+      "question": "Em que cidade foram realizados os Jogos Olímpicos de 2000?",
+      "options": [
+        "Munique",
+        "Sidney",
+        "Tóquio",
+        "Atlanta"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 174,
+      "question": "Em que país fica a Grande Muralha com cerca de 6.400 quilômetros?",
+      "options": [
+        "Japão",
+        "China",
+        "Afeganistão",
+        "Índia"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 175,
+      "question": "Qual é o nome do Patriarca da Independência do Brasil?",
+      "options": [
+        "Tiradentes",
+        "José Bonifácio",
+        "Dom Pedro II",
+        "Vasco da Gama"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 176,
+      "question": "O nome América foi associado a qual desses nomes?",
+      "options": [
+        "Américo dos Reis",
+        "Américo Brasiliense",
+        "Américo Vespúcio",
+        "José Américo da Silva"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 177,
+      "question": "Qual é o médico que mais utiliza o eletrocardiograma?",
+      "options": [
+        "Ortopedista",
+        "Cardiologista",
+        "Dermatologista",
+        "Acupunturista"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 178,
+      "question": "Qual o significado da sigla 'AI', no AI-5?",
+      "options": [
+        "Ato Intencional",
+        "Ato Institucional",
+        "Ato Inspirador",
+        "Ato Idealizador"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 179,
+      "question": "Qual personagem bíblico dividiu as águas do Mar Vermelho?",
+      "options": [
+        "Abraão",
+        "Moisés",
+        "Josué",
+        "Elias"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 180,
+      "question": "Qual dessas cobras não é venenosa?",
+      "options": [
+        "Urutu",
+        "Cascavel",
+        "Jararaca",
+        "Píton"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 181,
+      "question": "Que animal é usado no jogo de pólo?",
+      "options": [
+        "Camelo",
+        "Cavalo",
+        "Macaco",
+        "Cachorro"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 182,
+      "question": "Em que ano ocorreu o incêndio do edifício Joelma, na cidade de São Paulo?",
+      "options": [
+        "1971",
+        "1972",
+        "1973",
+        "1974"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 183,
+      "question": "Teresina é a capital de qual estado brasileiro?",
+      "options": [
+        "Tocantins",
+        "Piauí",
+        "Acre",
+        "Paraná"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 184,
+      "question": "Sobre qual cidade do Japão foi lançada a primeira bomba atômica?",
+      "options": [
+        "Tóquio",
+        "Nagasaki",
+        "Osaka",
+        "Hiroshima"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 185,
+      "question": "O daltônico é deficiente em?",
+      "options": [
+        "Sentir dor",
+        "Sentir paladar",
+        "Diferenciar cores",
+        "Sentir cheiro"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 186,
+      "question": "Qual é o dia da Padroeira do Brasil?",
+      "options": [
+        "12 de Outubro",
+        "12 de Novembro",
+        "11 de Dezembro",
+        "1 de Janeiro"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 187,
+      "question": "Qual é a capital do Estado de Mato Grosso do Sul?",
+      "options": [
+        "Cuiabá",
+        "Várzea Grande",
+        "Rondonópolis",
+        "Campo Grande"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 188,
+      "question": "Quantos são os continentes?",
+      "options": [
+        "Cinco",
+        "Sete",
+        "Três",
+        "Quatro"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 189,
+      "question": "Por que nome são conhecidas as pessoas do Pólo Ártico?",
+      "options": [
+        "Sulistas",
+        "Esquimós",
+        "Nortistas",
+        "Polares"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 190,
+      "question": "Qual é a fórmula química da água?",
+      "options": [
+        "NaCl",
+        "H2",
+        "H2O",
+        "CO2"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 191,
+      "question": "Qual era a profissão de Cecília Meirelles?",
+      "options": [
+        "Cantora",
+        "Escritora",
+        "Arquiteta",
+        "Pianista"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 192,
+      "question": "Em que cidade fica a sede da rede de TV BBC?",
+      "options": [
+        "Londres",
+        "Nova York",
+        "Montreal",
+        "Califórnia"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 193,
+      "question": "Camillo é o sobrenome de qual cantor nascido em Brotas?",
+      "options": [
+        "Leonardo",
+        "Chitãozinho",
+        "Daniel",
+        "Vinny"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 194,
+      "question": "Por quantos integrantes era formado o grupo Beatles?",
+      "options": [
+        "Três",
+        "Quatro",
+        "Cinco",
+        "Seis"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 195,
+      "question": "Qual foi o último imperador do Brasil?",
+      "options": [
+        "D. Pedro II",
+        "D. Pedro I",
+        "D. João VI",
+        "Deodoro da Fonseca"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 196,
+      "question": "Quem dirigiu o filme ‘Central do Brasil’?",
+      "options": [
+        "Bruno Barreto",
+        "Héctor Babenco",
+        "Arnaldo Jabor",
+        "Walter Salles Júnior"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 197,
+      "question": "O que significa a expressão e-mail?",
+      "options": [
+        "Correio Rápido",
+        "Correio Eletrônico",
+        "Correio Elegante",
+        "Correio de Máquina"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 198,
+      "question": "Em que estado norte-americano fica a cidade de Miami?",
+      "options": [
+        "Alasca",
+        "Nova York",
+        "Flórida",
+        "Califórnia"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 199,
+      "question": "Qual é a capital do Iraque?",
+      "options": [
+        "Belém",
+        "Bagdá",
+        "Beirute",
+        "Budapeste"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 200,
+      "question": "Qual modalidade deu mais medalhas olímpicas para o Brasil?",
+      "options": [
+        "Vela",
+        "Judô",
+        "Atletismo",
+        "Natação"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 201,
+      "question": "Em qual espécie o macho choca os ovos e a fêmea procura alimento?",
+      "options": [
+        "Andorinha",
+        "Pato Selvagem",
+        "Pingüim",
+        "Marreco"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 202,
+      "question": "Em qual país está localizado o 'Muro das lamentações'?",
+      "options": [
+        "Alemanha",
+        "Brasil",
+        "Venezuela",
+        "Israel"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 203,
+      "question": "Qual desses países não fica na Ásia?",
+      "options": [
+        "Paquistão",
+        "Japão",
+        "Tailândia",
+        "Egito"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 204,
+      "question": "Qual desses astros de filmes de ação é belga?",
+      "options": [
+        "Arnold Schwarzenegger",
+        "Sylvester Stallone",
+        "Steven Seagal",
+        "Jean Claude Van Damme"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 205,
+      "question": "Onde foi conduzida a vitória das forças aliadas na Segunda Guerra Mundial?",
+      "options": [
+        "Cannes",
+        "Normandia",
+        "Capri",
+        "Marselha"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 206,
+      "question": "Onde nasceu Van Gogh, o grande pintor impressionista?",
+      "options": [
+        "Polônia",
+        "França",
+        "Itália",
+        "Holanda"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 207,
+      "question": "Qual é a primeira letra do alfabeto grego?",
+      "options": [
+        "Delta",
+        "Beta",
+        "Alfa",
+        "Gama"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 208,
+      "question": "Qual presidente brasileiro instituiu o AI-5?",
+      "options": [
+        "Costa e Silva",
+        "Ernesto Geisel",
+        "João Figueiredo",
+        "Itamar Franco"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 209,
+      "question": "O que significa literalmente Perestroika?",
+      "options": [
+        "Conversão",
+        "Involução",
+        "Reestruturação",
+        "Regressão"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 210,
+      "question": "Qual desses quatro pesos é o mais leve?",
+      "options": [
+        "10 Onças",
+        "10 Gramas",
+        "10 Quilos",
+        "10 Libras"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 211,
+      "question": "Brahma é o deus de que religião?",
+      "options": [
+        "Hinduísmo",
+        "Xintoísmo",
+        "Budismo",
+        "Islamismo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 212,
+      "question": "Os nazistas foram julgados em:",
+      "options": [
+        "Berlim",
+        "Nurembergue",
+        "Munique",
+        "Paris"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 213,
+      "question": "Que ramo da pecuária ocupa-se de bodes e cabras?",
+      "options": [
+        "Asinino",
+        "Caprino",
+        "Bufalino",
+        "Muar"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 214,
+      "question": "Qual oceano tem o maior volume de água?",
+      "options": [
+        "Atlântico",
+        "Pacífico",
+        "Índico",
+        "Ártico"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 215,
+      "question": "Qual foi o último presidente militar do Brasil?",
+      "options": [
+        "Fernando Collor",
+        "João Figueiredo",
+        "Tancredo Neves",
+        "João Goulart"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 216,
+      "question": "Que conflito ideológico envolveu os EUA e a União Soviética?",
+      "options": [
+        "Guerra Fria",
+        "Guerra do Vietnã",
+        "Guerra nas Estrelas",
+        "Guerra da Coreia"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 217,
+      "question": "O trapézio é um músculo que está situado:",
+      "options": [
+        "No Pescoço",
+        "No Ombro",
+        "Na Cabeça",
+        "No Braço"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 218,
+      "question": "Quem escreveu o livro 'A sangue frio' em 1966?",
+      "options": [
+        "Truman Capote",
+        "Henry James",
+        "John Steinbeck",
+        "Toni Morrison"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 219,
+      "question": "Quem escreveu 'Ulisses' em 1922?",
+      "options": [
+        "Ernest Hemingway",
+        "Marcel Proust",
+        "T.S. Elliot",
+        "James Joyce"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 220,
+      "question": "Qual o símbolo químico do radônio?",
+      "options": [
+        "Rr",
+        "Rd",
+        "Rn",
+        "Ro"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 221,
+      "question": "O que são meninges?",
+      "options": [
+        "Células",
+        "Nervos",
+        "Membranas",
+        "Músculos"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 222,
+      "question": "Qual produto gerou guerras e conflitos no século XX?",
+      "options": [
+        "Álcool",
+        "Petróleo",
+        "Ouro",
+        "Alumínio"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 223,
+      "question": "Como é chamada a bola de gelo e poeira que orbita em torno do sol?",
+      "options": [
+        "Cometa",
+        "Meteorito",
+        "Camada de Ozônio",
+        "Estrela D'Alva"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 224,
+      "question": "O confucionismo é uma filosofia de qual nacionalidade?",
+      "options": [
+        "Indiana",
+        "Japonesa",
+        "Chinesa",
+        "Coreana"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 225,
+      "question": "Qual a ciência que estuda a distribuição dos animais?",
+      "options": [
+        "Zooterapiá",
+        "Zoogeografia",
+        "Zodíaco",
+        "Zoometria"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 226,
+      "question": "A eletrônica é parte de qual ciência?",
+      "options": [
+        "Física",
+        "Biologia",
+        "Química",
+        "Botânica"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 227,
+      "question": "A Bélgica é:",
+      "options": [
+        "Uma República",
+        "Uma Monarquia Constitucional",
+        "Um Emirado",
+        "Um Principado"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 228,
+      "question": "Que parte do corpo humano é infectada pela cólera?",
+      "options": [
+        "Garganta",
+        "Intestino",
+        "Pulmões",
+        "Rins"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 229,
+      "question": "Que figura mitológica é conhecida por sua força extraordinária?",
+      "options": [
+        "Átila",
+        "Minotauro",
+        "Perseu",
+        "Hércules"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 230,
+      "question": "A união do espermatozóide com o óvulo origina uma célula chamada:",
+      "options": [
+        "Zigoto",
+        "Bigoto",
+        "Feto",
+        "Garoto"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 231,
+      "question": "A que país pertence a ilha de Terra Nova?",
+      "options": [
+        "Estados Unidos",
+        "Dinamarca",
+        "Canadá",
+        "França"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 232,
+      "question": "Em que país você pode gastar rublos?",
+      "options": [
+        "Holanda",
+        "Rússia",
+        "Espanha",
+        "África do Sul"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 233,
+      "question": "Na criação do Estado do Tocantins, que estado teve o território reduzido?",
+      "options": [
+        "Goiás",
+        "Mato Grosso",
+        "Pará",
+        "Maranhão"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 234,
+      "question": "De quem é este verso: 'A praça é do povo, como o céu é do condor'?",
+      "options": [
+        "Tobias Barreto",
+        "Dorival Caimi",
+        "Machado de Assis",
+        "Castro Alves"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 235,
+      "question": "Que nome recebe a foz de um rio que se abre para o mar?",
+      "options": [
+        "Alagado",
+        "Manguezal",
+        "Pântano",
+        "Estuário"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 236,
+      "question": "“Arábica” e “robusta” são tipos de quê?",
+      "options": [
+        "Uva",
+        "Café",
+        "Melão",
+        "Laranja"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 237,
+      "question": "Em que ano Ayrton Senna venceu o primeiro campeonato de Fórmula 1?",
+      "options": [
+        "1987",
+        "1990",
+        "1985",
+        "1988"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 238,
+      "question": "Qual é a menor República do mundo?",
+      "options": [
+        "Mônaco",
+        "San Marino",
+        "Nova Zelândia",
+        "China"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 239,
+      "question": "Que símbolo está desenhado no centro da bandeira Argentina?",
+      "options": [
+        "Sol",
+        "Lua",
+        "Estrela",
+        "Foice e Martelo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 240,
+      "question": "De quem é a frase 'Penso, logo existo'?",
+      "options": [
+        "Platão",
+        "Júlio Verne",
+        "Aristóteles",
+        "René Descartes"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 241,
+      "question": "Quem construiu o primeiro telescópio astronômico completo?",
+      "options": [
+        "Cyrus McCormick",
+        "Thomas Edison",
+        "Michelangelo",
+        "Galileu Galilei"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 242,
+      "question": "Em que parte do nosso corpo está o úmero?",
+      "options": [
+        "Braço",
+        "Perna",
+        "Quadril",
+        "Coluna"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 243,
+      "question": "A quem se atribui a frase 'Eu sou o Estado'?",
+      "options": [
+        "Luiz XIV",
+        "Luiz XV",
+        "Luiz XVI",
+        "Napoleão Bonaparte"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 244,
+      "question": "Qual o nome verdadeiro do jogador de futebol conhecido com Zico?",
+      "options": [
+        "Arthur Antunes Coimbra",
+        "Arthur Alves Pinto",
+        "Arthur da Távla",
+        "Arthur dos Santos"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 245,
+      "question": "O que significa deprecar?",
+      "options": [
+        "Renegar",
+        "Sujeitar",
+        "Desmaiar",
+        "Pedir"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 246,
+      "question": "Que cidade foi capital do Império Inca?",
+      "options": [
+        "La Paz",
+        "Buenos Aires",
+        "Bogotá",
+        "Cuzco"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 247,
+      "question": "Com que outro nome é conhecido o Cabo Canaveral?",
+      "options": [
+        "Cabo Jefferson",
+        "Cabo Lincoln",
+        "Cabo Kennedy",
+        "Cabo Reagan"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 248,
+      "question": "Que significa o prefixo exo?",
+      "options": [
+        "Dentro de",
+        "Debaixo de",
+        "Fora de",
+        "Atrás de"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 249,
+      "question": "Bill Clinton nasceu em que cidade?",
+      "options": [
+        "Los Angeles",
+        "Chicago",
+        "Hope",
+        "Dallas"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 250,
+      "question": "Qual foi o material utilizado na construção do Partenon de Atenas?",
+      "options": [
+        "Mármore",
+        "Granito",
+        "Gesso",
+        "Quartzo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 251,
+      "question": "Que trópico atravessa o Saara?",
+      "options": [
+        "Capricórnio",
+        "Virgem",
+        "Câncer",
+        "Leão"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 252,
+      "question": "Quem foi aluno de Platão e tutor de Alexandre, o Grande?",
+      "options": [
+        "Pitágoras",
+        "Diderot",
+        "Aristóteles",
+        "Galileu Galilei"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 253,
+      "question": "“Guernica” é uma tela de qual pintor?",
+      "options": [
+        "Monet",
+        "Renoir",
+        "Picasso",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 254,
+      "question": "Em que ano foi inaugurada a estátua do Cristo Redentor no Rio de Janeiro?",
+      "options": [
+        "1921",
+        "1931",
+        "1941",
+        "1951"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 255,
+      "question": "Qual é a religião majoritária da Turquia?",
+      "options": [
+        "Budista",
+        "Islâmica",
+        "Católica",
+        "Protestante"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 256,
+      "question": "Onde estão os sepulcros de Michelangelo, Maquiavel e Galileu?",
+      "options": [
+        "Milão",
+        "Florença",
+        "Veneza",
+        "Gênova"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 257,
+      "question": "A que país deve-se viajar para subir o Monte Parnaso?",
+      "options": [
+        "Itália",
+        "França",
+        "Grécia",
+        "Turquia"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 258,
+      "question": "A que letra do nosso alfabeto corresponde a letra grega tau?",
+      "options": [
+        "F",
+        "H",
+        "J",
+        "T"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 259,
+      "question": "Em qual guerra lutou Paul Newman pela marinha americana?",
+      "options": [
+        "Primeira Guerra Mundial",
+        "Guerra do Vietnã",
+        "Guerra da Coreia",
+        "Segunda Guerra Mundial"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 260,
+      "question": "O que é talude?",
+      "options": [
+        "Avalanche de neve",
+        "Fungo",
+        "Inclinação de terreno",
+        "Rito Islâmico"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 261,
+      "question": "Qual destas palavras é sinônimo de cabal?",
+      "options": [
+        "Baixo",
+        "Perfeito",
+        "Atrevido",
+        "Enfermo"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 262,
+      "question": "Qual desses poetas foi indicado para o prêmio Nobel de literatura?",
+      "options": [
+        "Mário Quintana",
+        "Manuel Bandeira",
+        "Vinícius de Moraes",
+        "Carlos Drummond de Andrade"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 263,
+      "question": "Qual foi a locomotiva a vapor que trafegou na Estrada de Ferro Mauá em 1854?",
+      "options": [
+        "Santa-Fé",
+        "Loco-Breque",
+        "American",
+        "Baronesa"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 264,
+      "question": "O que é palato?",
+      "options": [
+        "Barriga da perna",
+        "Menina dos olhos",
+        "Língua",
+        "Céu da boca"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 265,
+      "question": "O que construía Stradivarius?",
+      "options": [
+        "Casas",
+        "Violinhos",
+        "Armas",
+        "Estradas"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 266,
+      "question": "Qual atleta foi desclassificado por uso de doping nas Olimpíadas de 1988?",
+      "options": [
+        "Mike Powell",
+        "Ben Johnson",
+        "Carl Lewis",
+        "Linford Christie"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 267,
+      "question": "Qual é o exame que emite ondas sonoras para visualizar os órgãos?",
+      "options": [
+        "Xerografia",
+        "Ultra-sonografia",
+        "Fotografia",
+        "Radiografia"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 268,
+      "question": "Qual é a especialidade dos profissionais que analisam os sulcos e marcas de uma bala?",
+      "options": [
+        "Baleagem",
+        "Balística",
+        "Logística",
+        "Impressão Digital"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 269,
+      "question": "Qual metal possui o símbolo Hg?",
+      "options": [
+        "Ferro",
+        "Aço",
+        "Mercúrio",
+        "Ouro"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 270,
+      "question": "Qual é o nome dado a um conjunto de sinos?",
+      "options": [
+        "Corrimão",
+        "Carrilhão",
+        "Badalada",
+        "Corselete"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 271,
+      "question": "Qual é a altura oficial do aro na cesta no basquete?",
+      "options": [
+        "3,05 metros",
+        "2,97 metros",
+        "3,10 metros",
+        "3,00 metros"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 272,
+      "question": "Qual é o apelido do time da Ponte Preta?",
+      "options": [
+        "Feiticeira",
+        "Raposa",
+        "Bruxa",
+        "Macaca"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 273,
+      "question": "Quem foi chamado de Águia de Haia?",
+      "options": [
+        "Jorge Amado",
+        "Eça de Queiroz",
+        "Rui Barbosa",
+        "Raimundo Corrêa"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 274,
+      "question": "Quem escreveu ‘Dom Quixote’?",
+      "options": [
+        "Espinoza",
+        "Miguel de Cervantes",
+        "Carlos Conte",
+        "Angel Morita"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 275,
+      "question": "Qual a origem da palavra folclore?",
+      "options": [
+        "Holandesa",
+        "Inglesa",
+        "Francesa",
+        "Brasileira"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 276,
+      "question": "Quem ganhou a 1ª medalha de ouro olímpico para o Brasil?",
+      "options": [
+        "Afranio Antonio Costa",
+        "Guilherme Paraense",
+        "Fernando Soledade",
+        "Sebastião Wolf"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 277,
+      "question": "Qual é o quarto planeta do sistema solar?",
+      "options": [
+        "Júpiter",
+        "Vênus",
+        "Terra",
+        "Marte"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 278,
+      "question": "Que pintor francês consagrou a mulher taitiana em suas telas?",
+      "options": [
+        "Renoir",
+        "Gauguin",
+        "Cézanne",
+        "Monet"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 279,
+      "question": "O que é glicose?",
+      "options": [
+        "Aminoácido",
+        "Hidrato de carbono",
+        "Lipídio",
+        "Proteína"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 280,
+      "question": "Qual destas seleções nunca jogou uma final de copa?",
+      "options": [
+        "Espanha",
+        "Suécia",
+        "Hungria",
+        "França"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 281,
+      "question": "Qual foi a primeira mulher a entrar no ‘hall da fama’ do rock and roll?",
+      "options": [
+        "Janis Joplin",
+        "Carole King",
+        "Aretha Franklin",
+        "Diana Ross"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 282,
+      "question": "Nova Caledônia faz parte da:",
+      "options": [
+        "Micronésia",
+        "Melanésia",
+        "Polinésia",
+        "Indonésia"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 283,
+      "question": "Qual é o país que tem uma árvore estampada na bandeira?",
+      "options": [
+        "Egito",
+        "Canadá",
+        "Líbano",
+        "Marrocos"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 284,
+      "question": "O que procurava Juan Ponce de Leon quando descobriu a Flórida?",
+      "options": [
+        "A cidade perdida de ouro",
+        "A fonte da juventude",
+        "Unicórnios",
+        "Seu gato"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 285,
+      "question": "As Ilhas Malvinas também são chamadas de:",
+      "options": [
+        "Stanley",
+        "Wedells",
+        "Medanosa",
+        "Falkland"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 286,
+      "question": "Qual destes países não se situa no Equador?",
+      "options": [
+        "Quênia",
+        "Equador",
+        "Chile",
+        "Indonésia"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 287,
+      "question": "Em que país Leonardo da Vinci viveu seus últimos dias?",
+      "options": [
+        "Espanha",
+        "Holanda",
+        "França",
+        "Itália"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 288,
+      "question": "A que país pertence a Groenlândia?",
+      "options": [
+        "Dinamarca",
+        "Inglaterra",
+        "Noruega",
+        "Estados Unidos"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 289,
+      "question": "Pablo Picasso foi um dos criadores do:",
+      "options": [
+        "Cubismo",
+        "Surrealismo",
+        "Impressionismo",
+        "Realismo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 290,
+      "question": "Como se chama o explorador de grutas e cavernas?",
+      "options": [
+        "Espeleólogo",
+        "Agrostólogo",
+        "Psicólogo",
+        "Campanólogo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 291,
+      "question": "Qual o sistema de transporte mais utilizado no Brasil?",
+      "options": [
+        "Ferroviário",
+        "Aéreo",
+        "Hidroviário",
+        "Rodoviário"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 292,
+      "question": "A baleia está classificada em qual grupo de mamíferos?",
+      "options": [
+        "Cetáceos",
+        "Felinos",
+        "Sirênios",
+        "Carnívoros"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 293,
+      "question": "Qual é a maior ilha da Europa?",
+      "options": [
+        "Grã-Bretanha",
+        "Irlanda",
+        "Islândia",
+        "Sicília"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 294,
+      "question": "O filme ‘A noviça rebelde’, premiado com 5 Oscars, foi estrelado por:",
+      "options": [
+        "Judy Garland",
+        "Shirley Temple",
+        "Julie Andrews",
+        "Doris Day"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 295,
+      "question": "Qual foi o primeiro presidente do Brasil eleito pelo povo?",
+      "options": [
+        "Getúlio Vargas",
+        "Prudente de Moraes",
+        "Washington Luís",
+        "Tancredo Neves"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 296,
+      "question": "O que o pintor Claude Monet representou em suas telas?",
+      "options": [
+        "Os jardins de Giverny",
+        "Os bistrôs de Paris",
+        "Cenas do Moulin Rouge",
+        "Paisagens da Provença"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 297,
+      "question": "Miró, Picasso e Salvador Dalí eram pintores:",
+      "options": [
+        "Italianos",
+        "Portugueses",
+        "Espanhóis",
+        "Chilenos"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 298,
+      "question": "Qual foi o piloto de Fórmula 1 que conquistou o título de campeão mundial cinco vezes?",
+      "options": [
+        "Jacques Stewart",
+        "Alain Prost",
+        "Ayrton Senna",
+        "J. Manoel Fangio"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 299,
+      "question": "Como o rei francês Luis XVI e sua esposa Maria Antonieta morreram?",
+      "options": [
+        "Enforcados",
+        "Fuzilados",
+        "Guilhotinados",
+        "Queimados"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 300,
+      "question": "Como se chama a máquina usada para compactar o asfalto?",
+      "options": [
+        "Rolo Compressor",
+        "Escavadeira",
+        "Trator",
+        "Lixadeira"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 301,
+      "question": "Como é chamada a gravura impressa sobre pranchas de madeira?",
+      "options": [
+        "Materografia",
+        "Litografia",
+        "Xilografia",
+        "Serigrafia"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 302,
+      "question": "Qual a maior ilha do mundo?",
+      "options": [
+        "Madagascar",
+        "Groenlândia",
+        "Nova Guiné",
+        "Borneo"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 303,
+      "question": "Qual é o nome do matemático que desenvolveu o conceito de número irracional?",
+      "options": [
+        "Pitagoras",
+        "Euclides",
+        "Arquimedes",
+        "Hipócrates"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 304,
+      "question": "Qual é o elemento químico cujo símbolo é 'W'?",
+      "options": [
+        "Tungstênio",
+        "Tálio",
+        "Tântalo",
+        "Cobalto"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 305,
+      "question": "Qual é a cidade conhecida como a 'Cidade Eterna'?",
+      "options": [
+        "Atenas",
+        "Roma",
+        "Constantinopla",
+        "Jerusalém"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 306,
+      "question": "Qual foi a primeira mulher a ganhar um Prêmio Nobel?",
+      "options": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Ada Lovelace",
+        "Lise Meitner"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 307,
+      "question": "Qual foi a última dinastia a governar a China?",
+      "options": [
+        "Han",
+        "Tang",
+        "Ming",
+        "Qing"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 308,
+      "question": "Quem foi o último czar da Rússia?",
+      "options": [
+        "Ivan IV",
+        "Pedro I",
+        "Nicolau II",
+        "Aleksandr III"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 309,
+      "question": "Qual é o nome do primeiro satélite artificial lançado ao espaço?",
+      "options": [
+        "Vostok 1",
+        "Sputnik 1",
+        "Apollo 11",
+        "Explorer 1"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 310,
+      "question": "Quantos noves existem entre 0 e 100?",
+      "options": [
+        "10",
+        "11",
+        "19",
+        "20"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 311,
+      "question": "Qual é o nome da técnica utilizada para a análise de padrões de DNA que foi fundamental na identificação de criminosos na década de 1980?",
+      "options": [
+        "PCR (Polymerase Chain Reaction)",
+        "Sequenciamento de DNA",
+        "Ressonância Magnética",
+        "Análise de RNA"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 312,
+      "question": "Quem foi o matemático britânico que formulou o teorema dos números primos em 1859, que tem implicações profundas na teoria dos números e na criptografia moderna?",
+      "options": [
+        "Riemann (Bernhard Riemann)",
+        "Euclides",
+        "Fermat",
+        "Euler"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 313,
+      "question": "Qual é o nome da teoria que descreve como a informação é preservada em buracos negros, desafiando a ideia de que a informação desaparece quando um buraco negro evapora?",
+      "options": [
+        "Paradoxo da Informação do Buraco Negro",
+        "Teoria da Relatividade",
+        "Teoria das Cordas",
+        "Teoria Quântica dos Campos"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 314,
+      "question": "No campo da física teórica, qual é o nome da conjectura que propõe que o espaço-tempo é emergente, e não uma entidade fundamental, formulada por Erik Verlinde em 2010?",
+      "options": [
+        "Teoria da Gravidade Emergente",
+        "Teoria das Cordas",
+        "Teoria da Relatividade Geral",
+        "Teoria Quântica dos Campos"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 315,
+      "question": "Qual filósofo francês publicou o trabalho 'O Anticristo', um livro que critica a religião cristã e explora a ideia de um 'super-homem'?",
+      "options": [
+        "Friedrich Nietzsche",
+        "Jean-Paul Sartre",
+        "Michel Foucault",
+        "René Descartes"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 316,
+      "question": "Qual é a técnica matemática usada para calcular as propriedades de sistemas complexos e foi desenvolvida pelo matemático francês Henri Poincaré, associada à teoria do caos?",
+      "options": [
+        "Teoria dos Sistemas Dinâmicos",
+        "Teoria da Probabilidade",
+        "Teoria dos Grafos",
+        "Teoria da Relatividade"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 317,
+      "question": "Em que ano o matemático russo Grigori Perelman publicou a prova da Conjectura de Poincaré, um dos problemas do milênio?",
+      "options": [
+        "2003",
+        "1995",
+        "2008",
+        "2001"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 318,
+      "question": "Qual é a filosofia que critica a noção de verdade absoluta e objetiva, defendendo que a verdade é subjetiva e depende do contexto cultural e histórico?",
+      "options": [
+        "Relativismo Epistemológico",
+        "Realismo",
+        "Empirismo",
+        "Racionalismo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 319,
+      "question": "Qual foi o nome do artista e inventor italiano do Renascimento que descreveu técnicas de perspectiva e engenharia que influenciaram profundamente a arte e a ciência?",
+      "options": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Donatello"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 320,
+      "question": "Qual é o conceito matemático que descreve a impossibilidade de criar um conjunto de todas as coleções possíveis de um conjunto, formulado por Georg Cantor?",
+      "options": [
+        "Paradoxo de Cantor",
+        "Paradoxo de Russell",
+        "Paradoxo de Zeno",
+        "Paradoxo de Bertrand"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    }
+  ],
+  "questionsAnime": [
+    {
+      "id": 1001,
+      "question": "Qual desses times o Time Urameshi NÃO enfrenta durante o Torneio das Trevas?",
+      "options": [
+        "Time Ichigaki",
+        "Time Uraotogi",
+        "Time Gorenja",
+        "Time Toguro"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 1002,
+      "question": "Quem é o líder dos Hashira, também conhecidos como Pilar dos Caçadores de Demônios?",
+      "options": [
+        "Giyu Tomioka",
+        "Tengen Uzui",
+        "Muzan Kibutsuji",
+        "Kagaya Ubuyashiki"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1003,
+      "question": "Os humanos vítimas da combustão humana espontânea são chamados de...?",
+      "options": [
+        "Solistas",
+        "Adolla Burst",
+        "Infernais",
+        "Pilares"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1004,
+      "question": "Quem faz a final do 21º Torneio de Artes Marciais?",
+      "options": [
+        "Goku e Jackie Chun",
+        "Goku e Kuririn",
+        "Yamcha e Jackie Chun",
+        "Kuririn e Yamcha"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1006,
+      "question": "Qual o animal sagrado de Alabasta?",
+      "options": [
+        "Gato Marinho",
+        "Caranguejo do Deserto",
+        "Escorpião da Areia",
+        "Camelo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1007,
+      "question": "Qual o estilo de respiração de Shinobu Kocho?",
+      "options": [
+        "Respiração do Veneno",
+        "Respiração do Inseto",
+        "Respiração do Trovão",
+        "Respiração do Vento"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1008,
+      "question": "Qual desses personagens NÃO faz parte das forças especiais Ginyu?",
+      "options": [
+        "Gurdo",
+        "Rikum",
+        "Amond",
+        "Yuz"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1009,
+      "question": "Qual desses personagens NÃO é um cavaleiro de prata?",
+      "options": [
+        "Yuna",
+        "Misty",
+        "Orfeu",
+        "Shaina"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1011,
+      "question": "Com que idade Edward Elric se tornou alquimista federal?",
+      "options": [
+        "10 anos",
+        "12 anos",
+        "14 anos",
+        "15 anos"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1012,
+      "question": "De qual esquadrão Yuno faz parte?",
+      "options": [
+        "Águias de Prata",
+        "Touros Negros",
+        "Orcas Púrpuras",
+        "Alvorecer Dourado"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1013,
+      "question": "Quem são as bestas sagradas de Yuyu Hakusho?",
+      "options": [
+        "Byakko, Genkai, Yukina e Suzaku",
+        "Genbu, Gorenja, Genkai e Byakko",
+        "Genbu, Byakko, Seiryu e Suzaku",
+        "Yukina, Genbu, Gorenja e Seiryu"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 1015,
+      "question": "O nome do Bijuu de cinco caudas é...",
+      "options": [
+        "Gyuuki",
+        "Chomei",
+        "Kokuo",
+        "Matatabi"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10016,
+      "question": "Qual o nome da Bankai de Toshiro Hitsugaya?",
+      "options": [
+        "Ryujin Jakka",
+        "Jakuho Raikoben",
+        "Sogyo no Kotowari",
+        "Daiguren Hyorinmaru"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10017,
+      "question": "O \"Anteiku\" é um ponto de encontro para Ghouls disfarçado de...?",
+      "options": [
+        "Bar",
+        "Cafeteria",
+        "Lanchonete",
+        "Casa de Shows"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10019,
+      "question": "Shinra é parte da...",
+      "options": [
+        "5º Companhia de Bombeiros",
+        "6º Companhia de Bombeiros",
+        "7º Companhia de Bombeiros",
+        "8º Companhia de Bombeiros"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10020,
+      "question": "Quantos Titãs Originais existem?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10023,
+      "question": "Qual o nome da cidade natal dos irmãos Elric?",
+      "options": [
+        "Artemis",
+        "Dublith",
+        "Resembool",
+        "Creta"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10024,
+      "question": "Qual o nome da cidade onde a obra Soul Eater se passa?",
+      "options": [
+        "Death City",
+        "Soul City",
+        "Scythe City",
+        "Sorcerer City"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10025,
+      "question": "Quais são os companheiros de Inuyasha e Kagome?",
+      "options": [
+        "Shippou, Kouga, Naraku e Jaken",
+        "Sango, Kanna, Kagura e Miroku",
+        "Hachiemon, Jaken, Kirara e Bankotsu",
+        "Sango, Shippou, Miroku e Kirara"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 10027,
+      "question": "Qual dessas é uma regra falsa do Death Note?",
+      "options": [
+        "É inútil tentar apagar nomes do Death Note com borrachas ou riscando.",
+        "O Death Note não funciona em pessoas com menos de 780 dias de vida.",
+        "Se a causa da morte não for especificada, a pessoa morrerá de ataque cardíaco.",
+        "Precisa escrever nomes no mínimo a cada 13 dias ou o dono do caderno morre."
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10028,
+      "question": "Qual o nome da PRIMEIRA esposa de Grisha Yaeger?",
+      "options": [
+        "Frida Reiss",
+        "Udo Fritz",
+        "Dina Fritz",
+        "Carla Reiss"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10030,
+      "question": "Qual elemento Noelle Silva controla?",
+      "options": [
+        "Fogo",
+        "Água",
+        "Gelo",
+        "Vento"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10031,
+      "question": "Qual dos pecados representa Ban?",
+      "options": [
+        "Ira",
+        "Inveja",
+        "Preguiça",
+        "Ganância"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10032,
+      "question": "Qual o último dos Chapéus de Palha (exceto Luffy) a desaparecer?",
+      "options": [
+        "Nami",
+        "Franky",
+        "Robin",
+        "Chopper"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10033,
+      "question": "As cidades que possuem centros de ensino de feiticeiros são...",
+      "options": [
+        "Tóquio e Osaka",
+        "Osaka e Sendai",
+        "Tóquio e Quioto",
+        "Quioto e Sendai"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10034,
+      "question": "Qual a alcunha de Roy Mustang?",
+      "options": [
+        "O Alquimista do Fogo",
+        "O Alquimista das Chamas",
+        "O Alquimista das Labaredas",
+        "O Alquimista das Faíscas"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10035,
+      "question": "Qual desses personagens não fez o acordo dos Olhos de Shinigami?",
+      "options": [
+        "Kyosuke Higuchi",
+        "Soichiro Yagami",
+        "Shuichi Aizawa",
+        "Teru Mikami"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10039,
+      "question": "Por que Inuyasha queria a Joia de Quatro Almas?",
+      "options": [
+        "Para se tornar um monge",
+        "Para se tornar um Yokai completo",
+        "Para se tornar humano",
+        "Para aumentar seu poder"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10041,
+      "question": "Junpei é transformado em maldição após ser tocado por...",
+      "options": [
+        "Yuji",
+        "Jogo",
+        "Hanami",
+        "Mahito"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10042,
+      "question": "Qual dos seguintes não é um título de Hashira?",
+      "options": [
+        "Pilar do Amor",
+        "Pilar da Serpente",
+        "Pilar do Ferro",
+        "Pilar da Névoa"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10043,
+      "question": "Como é chamada a escola de formação de Exorcistas?",
+      "options": [
+        "Academia Vera Cruz",
+        "Academia Assiah",
+        "Academia Fumizuki",
+        "Academia Ashford"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10044,
+      "question": "Quem são os integrantes do time Midoriya na batalha de cavalaria no festival de esportes da UA?",
+      "options": [
+        "Ochako Uraraka, Mei Hatsume e Fumikage Tokoyami",
+        "Ochako Uraraka, Tenya Iida e Minoru Mineta",
+        "Tenya Iida, Fumikage Tokoyami e Minoru Mineta",
+        "Ochako Uraraka, Eijiro Kirishima e Mina Ashido"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 10045,
+      "question": "Qual dessas lutas não aconteceu no Exame Chunnin?",
+      "options": [
+        "Shikamaru vs Kin Tsuchi",
+        "Shino vs Kankuro",
+        "Sasuke vs Yoroi Akado",
+        "Choji vs Zaku Abumi"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10046,
+      "question": "Qual o nome do Planeta que nascem os Kaiohs?",
+      "options": [
+        "Kijin",
+        "Kaishin",
+        "Shinjin",
+        "Chojin"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10047,
+      "question": "Qual o homúnculo que tem o poder de se transformar em outra pessoa?",
+      "options": [
+        "Inveja",
+        "Ganância",
+        "Luxúria",
+        "Ira"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10048,
+      "question": "Quantos andares possui a Torre do Céu?",
+      "options": [
+        "200",
+        "232",
+        "251",
+        "266"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10050,
+      "question": "Qual desses itens Nobara NÃO utiliza como equipamento de exorcismo?",
+      "options": [
+        "Pregos",
+        "Martelo",
+        "Foice",
+        "Boneco de Palha"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10051,
+      "question": "Qual desses supernovas não tem uma recompensa maior que 200 milhões de berries?",
+      "options": [
+        "Apoo",
+        "Drake",
+        "Hawkins",
+        "Law"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10052,
+      "question": "Usuários de espadas demoníacas são chamados de...",
+      "options": [
+        "Meisters",
+        "Scythes",
+        "Kishins",
+        "Sorcerers"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 10054,
+      "question": "Qual desses personagens NÃO faz parte da Força Red Ribbon?",
+      "options": [
+        "Butter",
+        "Sargento Metálico",
+        "Dock",
+        "Bonyu"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10055,
+      "question": "Porco Galliard é o portador de qual dos titãs?",
+      "options": [
+        "Carroceiro",
+        "Mandíbula",
+        "Martelo de Guerra",
+        "Blindado"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10056,
+      "question": "Qual o nome do Dragão que é o pai adotivo de Natsu?",
+      "options": [
+        "Ignia",
+        "Igneel",
+        "Selene",
+        "Viernes"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10057,
+      "question": "Quantos dos irmãos de Tanjiro morrem?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10058,
+      "question": "Quais cavaleiros são derrotados por Aldebaran, na casa de Touro?",
+      "options": [
+        "Shiryu, Shun e Seiya",
+        "Hyoga, Ikki e Shun",
+        "Hyoga, Shiryu e Shun",
+        "Seiya, Hyoga e Shun"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10059,
+      "question": "O plano de Reborn é transformar Tsuna num chefe da máfia para a...?",
+      "options": [
+        "Vongola Famiglia",
+        "Bovino Famiglia",
+        "Tomaso Famiglia",
+        "Cavallone Famiglia"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10060,
+      "question": "Qual a expansão de Domínio de Fushiguro Megumi?",
+      "options": [
+        "Jardim das Quimeras Sombrias",
+        "Montanha do Caixão de Ferro",
+        "Prisão Mahayana",
+        "Santuário Malevolente"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10061,
+      "question": "Quem é o Espada número 1?",
+      "options": [
+        "Tier Harribel",
+        "Szayelaporro Granz",
+        "Coyote Starrk",
+        "Baraggan Louisenbairn"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10062,
+      "question": "Qual desses animais não é uma das Bestas Carceireiras de Impel Down?",
+      "options": [
+        "Leão",
+        "Zebra",
+        "Chihuahua",
+        "Koala"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10063,
+      "question": "Quem são os semifinalistas do torneio de batalha do festival de esportes da UA?",
+      "options": [
+        "Midoriya, Todoroki, Bakugo e Tenya",
+        "Todoroki, Bakugo, Tenya e Tokoyami",
+        "Todoroki, Bakugo, Uraraka e Midoriya",
+        "Tenya, Bakugo, Tokoyami e Uraraka"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10064,
+      "question": "Qual o nome do grupo de assassinos da família Vongola que tenta assumir o controle da organização?",
+      "options": [
+        "Varia",
+        "Byakuran",
+        "Rokudo",
+        "Bianchi"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10065,
+      "question": "Quantas prisões existem no submundo de Hades?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10066,
+      "question": "Quais são os Magos Classe S da Fairy Tail?",
+      "options": [
+        "Erza, Mirajane, Laxus e Gildarts",
+        "Gildarts, Natsu, Laxus e Erza",
+        "Gildarts, Natsu, Gray e Laxus",
+        "Gildarts, Erza, Laxus e Gray"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10067,
+      "question": "Qual é o nome do Stand de Rohan Kishibe em Diamond is Unbreakable?",
+      "options": [
+        "King Crimson",
+        "Bad Company",
+        "Hermit Purple",
+        "Heaven's Door"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 10069,
+      "question": "Qual povo foi usado pelo 'Pai' (Brtt) para criar a pedra filosofal?",
+      "options": [
+        "Xing",
+        "Amestris",
+        "Troia",
+        "Xerxes"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 10071,
+      "question": "Qual a equipe montada por Shikamaru responsável pelo resgate de Sasuke?",
+      "options": [
+        "Naruto, Kiba, Choji e Neji",
+        "Naruto, Shino, Neji e Kiba",
+        "Naruto, Lee, Neji e Choji",
+        "Naruto, Neji, Shino e Kiba"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10072,
+      "question": "Death the Kid é o meister de duas armas...",
+      "options": [
+        "Clay Sizemore e Giriko",
+        "Crona e Death",
+        "Liz Thompson e Patty Thompson",
+        "Asura e Tsubaki"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10073,
+      "question": "Qual é a habilidade especial do Stand 'Crazy Diamond' de Josuke Higashikata em Diamond is Unbreakable?",
+      "options": [
+        "Pode parar o tempo",
+        "Pode curar ferimentos e objetos quebrados",
+        "Pode controlar o fogo",
+        "Pode transformar pessoas em animais"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10074,
+      "question": "Qual animal faz companhia à May Chang?",
+      "options": [
+        "Panda",
+        "Porquinho da índia",
+        "Hamster",
+        "Macaco"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10075,
+      "question": "Como são chamados os guerreiros que defendem Poseidon?",
+      "options": [
+        "Escamas",
+        "Marinas",
+        "Plânctons",
+        "Sirenes"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10076,
+      "question": "Kaede (YYH) usa um tapa-olho porque perdeu o olho direito há...",
+      "options": [
+        "50 anos",
+        "52 anos",
+        "45 anos",
+        "40 anos"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10077,
+      "question": "Como é chamado o grupo de elite do exército do Rei Demônio?",
+      "options": [
+        "Os Dez Mandamentos",
+        "O Rugido do Amanhecer",
+        "Cavaleiros do Apocalipse",
+        "Espadas do Rei Demônio"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10078,
+      "question": "Como são chamados os dois capangas de Pilaf?",
+      "options": [
+        "Piano e Ranfan",
+        "Paella e Cimbalo",
+        "Shu e Mai",
+        "Tsuru e Shao"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10080,
+      "question": "Quantas pessoas logam no jogo em 6 de novembro de 2022?",
+      "options": [
+        "12.000",
+        "11.000",
+        "10.000",
+        "9.000"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10081,
+      "question": "Qual desses personagens não é um capitão de esquadrão?",
+      "options": [
+        "Hamon Caseus",
+        "Charlotte Roselei",
+        "Dorothy Unsworth",
+        "Nozel Silva"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10082,
+      "question": "Quais foram os três primeiros Chapéus de Palha a chegarem em Sabaody após os dois anos?",
+      "options": [
+        "Zoro, Franky e Nami",
+        "Zoro, Usopp e Nami",
+        "Zoro, Franky e Chopper",
+        "Zoro, Chopper e Nami"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10083,
+      "question": "Qual dos Sete Generais Marinas enfrentou Shiryu?",
+      "options": [
+        "Io de Scylla",
+        "Sorento de Sirene",
+        "Kasa de Lymnades",
+        "Krishna de Chrysaor"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10084,
+      "question": "Qual desses países não faz parte dos Cinco Grandes Países Shinobis?",
+      "options": [
+        "O País do Trovão",
+        "O País do Ferro",
+        "O País do Vento",
+        "O País da Água"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10086,
+      "question": "O nome do diretor da Academia Vera Cruz é...",
+      "options": [
+        "Arthur Auguste Angel",
+        "Igor Neuhaus",
+        "Tatsuma Suguro",
+        "Mephisto Pheles"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10087,
+      "question": "Qual desses personagens NÃO foi líder da guilda Fairy Tail?",
+      "options": [
+        "Macao",
+        "Erza",
+        "Gildarts",
+        "Laxus"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10089,
+      "question": "Quais membros da Trupe são mortos por Kurapika em Yorkshin?",
+      "options": [
+        "Uvogin e Pakunoda",
+        "Uvogin e Franklin",
+        "Uvogin e Machi",
+        "Machi e Pakunoda"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10091,
+      "question": "Como é chamada a força policial de Edo?",
+      "options": [
+        "Mimawarigumi",
+        "Shinsengumi",
+        "Yorozuya",
+        "Amanto"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10092,
+      "question": "Qual dessas não é uma dupla de capitão e vice capitão de divisão?",
+      "options": [
+        "Kenpachi e Ikkaku",
+        "Lisa e Rangiku",
+        "Sui Feng e Omaeda",
+        "Byakuya e Renji"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10093,
+      "question": "Myouga é um youkai...",
+      "options": [
+        "Gato",
+        "Pulga",
+        "Cão",
+        "Aranha"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10094,
+      "question": "Quem corta a cabeça do demônio Rui?",
+      "options": [
+        "Zenitsu",
+        "Tanjiro",
+        "Rengoku",
+        "Tomioka"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10095,
+      "question": "A noite azul foi um evento em que Satan matou vários exorcistas ao redor do mundo há...",
+      "options": [
+        "16 anos",
+        "12 anos",
+        "10 anos",
+        "8 anos"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10096,
+      "question": "Nos Grandes Jogos Mágicos o pódio é composto por... (sem ordem definida)",
+      "options": [
+        "Fairy Tail, Sabertooth e Lamia Scale",
+        "Fairy Tail, Mermaid Heel e Sabertooth",
+        "Sabertooth, Mermaid Heel e Lamia Scale",
+        "Fairy Tail, Blue Pegasus e Sabertooth"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10097,
+      "question": "Como se chama a instituição da Madre Carmel?",
+      "options": [
+        "Lar das Ovelhas",
+        "Lar da Amizade",
+        "Lar das Crianças Carentes",
+        "Lar do Amor"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10098,
+      "question": "O nome do Bijuu de três caudas é...",
+      "options": [
+        "Chomei",
+        "Gyuuki",
+        "Shukaku",
+        "Isobu"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10099,
+      "question": "Em GI o time de Gon enfrenta um grupo chamado Bombers pelas últimas cartas do jogo, o líder desse grupo é?",
+      "options": [
+        "Jispa",
+        "Genthru",
+        "Binolt",
+        "Tsezguerra"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10100,
+      "question": "Quem derrota o Toguro mais novo no Torneio das Trevas?",
+      "options": [
+        "Yusuke",
+        "Kuwabara",
+        "Kurama",
+        "Hiei"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10101,
+      "question": "Qual desses personagens não ganhou o torneio de artes marciais?",
+      "options": [
+        "Mr. Satan",
+        "Tenshinhan",
+        "Kuririn",
+        "Akkuman"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10102,
+      "question": "Qual o oficial mais forte das forças Red Ribbon?",
+      "options": [
+        "General Blue",
+        "General White",
+        "General Copper",
+        "Capitão Yellow"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10103,
+      "question": "Qual desses personagens não é usuário de magia?",
+      "options": [
+        "Majin Boo",
+        "Babidi",
+        "Akkuman",
+        "Supremo Senhor Kaioh"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10104,
+      "question": "Qual desse personagens tem o poder de manipular o tempo?",
+      "options": [
+        "Whis",
+        "Vovó Uranai",
+        "Zamasu",
+        "Trunks"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10105,
+      "question": "Como é o nome do irmão de Vegeta?",
+      "options": [
+        "Raditz",
+        "Tarble",
+        "Seripa",
+        "Paragus"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10106,
+      "question": "Quantas pessoas herdaram o nome de Vegeta antes dele?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10107,
+      "question": "Qual desses personagens é um Mago Classe S da Fairy Tail?",
+      "options": [
+        "Erza",
+        "Natsu",
+        "Gray",
+        "Lucy"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10109,
+      "question": "Quem é o primeiro adversário de Seiya na Guerra Galáctica?",
+      "options": [
+        "Nachi de Lobo",
+        "Ban de Leão Menor",
+        "Geki de Urso",
+        "Ichi de Hidra"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10112,
+      "question": "Quantos Cavaleiros de Ouro morrem na Batalha das 12 Casas? (Batalha das 12 casas da Saga do Santuário)",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10113,
+      "question": "Quantas crianças Mitsumasa Kido enviou para várias partes do mundo para se tornarem Cavaleiros?",
+      "options": [
+        "10",
+        "88",
+        "100",
+        "1000"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10114,
+      "question": "Quem guarda o pilar do Ártico?",
+      "options": [
+        "Kanon de Dragão Marinho",
+        "Io de Scylla",
+        "Sorento de Sirene",
+        "Isaac de Kraken"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10115,
+      "question": "Qual é o único Sonota Saint a não morrer na série clássica?",
+      "options": [
+        "Spica",
+        "Spartan",
+        "Leda",
+        "Medusa"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10116,
+      "question": "Qual das seguintes opções era um codinome usado por Yamato na anbu?",
+      "options": [
+        "Hinoe",
+        "Soza",
+        "Ibushi",
+        "Hotaru"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10117,
+      "question": "Tsunade ordena que uma equipe seja montada para ir ao resgate de Sasuke ao fim do Exame Chunin, qual desses personagens NÃO estava nessa equipe?",
+      "options": [
+        "Rock Lee",
+        "Kiba",
+        "Choji",
+        "Neji"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10118,
+      "question": "Qual o nome do orfanato onde Minu cuida das crianças?",
+      "options": [
+        "Filho do Sol",
+        "Filho da Lua",
+        "Filho da Luz",
+        "Filho das Estrelas"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10119,
+      "question": "Como é o nome da sereia que diz que Luffy destruirá a Ilha dos Tritões?",
+      "options": [
+        "Shakky",
+        "Smoothie",
+        "Shen",
+        "Shirley"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10120,
+      "question": "Qual a recompensa do Falso Luffy?",
+      "options": [
+        "20 milhões de berries",
+        "26 milhões de berries",
+        "30 milhões de berries",
+        "35 milhões de berries"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10121,
+      "question": "Como era chamado o antigo bando do Brook?",
+      "options": [
+        "Piratas Músicos",
+        "Piratas Rumbar",
+        "Piratas do Coração",
+        "Piratas Hokahoka"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10122,
+      "question": "Qual o primeiro pirata a aparecer com uma recompensa de 1 bilhão de berries+?",
+      "options": [
+        "Jack",
+        "Katakuri",
+        "Smoothie",
+        "Queen"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10124,
+      "question": "Qual o animal de estimação de Shirahoshi?",
+      "options": [
+        "Kraken",
+        "Estrela-do-Mar",
+        "Tubarão",
+        "Polvo"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10126,
+      "question": "Como é o nome da arca antiga que quase destrói a Ilha dos Tritões?",
+      "options": [
+        "Noah",
+        "Poseidon",
+        "Pakkin",
+        "Fisher"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10127,
+      "question": "Com que base da marinha a Nova Marineford é trocada de lugar?",
+      "options": [
+        "G1",
+        "G5",
+        "G14",
+        "G6"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10128,
+      "question": "Quantos bandos piratas existem sob a alcunha da Frota dos Chapéus de Palha?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10129,
+      "question": "O que Ceasar Clown usava para drogar as crianças do laboratório?",
+      "options": [
+        "Pílulas",
+        "Sanduíches",
+        "Sorvete",
+        "Doces"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10130,
+      "question": "Apenas um desses não é um vencedor de um dos blocos do Coliseu de Dressrosa.",
+      "options": [
+        "Rebecca",
+        "Bartolomeo",
+        "Burguess",
+        "Cavendish"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10131,
+      "question": "Quantas vitórias o gladiador Kyros consegue no coliseu antes de se aposentar?",
+      "options": [
+        "2500",
+        "3000",
+        "3500",
+        "4000"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10132,
+      "question": "Qual desses Chapéus de Palha não vai com Sanji pra Zou?",
+      "options": [
+        "Brook",
+        "Nami",
+        "Chopper",
+        "Franky"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10133,
+      "question": "Qual o Yonkou que a aliança entre Apoo-Kid-Hawkins planejava matar?",
+      "options": [
+        "Buggy",
+        "Shanks",
+        "Big Mom",
+        "Kaidou"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10134,
+      "question": "Qual dos quatro assentos dos comandantes de Doflamingo está vago?",
+      "options": [
+        "Copas",
+        "Paus",
+        "Espadas",
+        "Ouro"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10135,
+      "question": "Como é o nome da ilha perto de Dressrosa que é a terra natal dos anões?",
+      "options": [
+        "Green Land",
+        "Green Earth",
+        "Green Bit",
+        "Gloom"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10136,
+      "question": "Como é o nome da ilha que Rosinante é morto?",
+      "options": [
+        "Minion",
+        "Dressrosa",
+        "Rubbeck",
+        "Swallow"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10136,
+      "question": "Como é o nome do Casino de Crocodile em Alabasta?",
+      "options": [
+        "Rain Base",
+        "Rain Dinners",
+        "Rain Money",
+        "Rain Casino"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Milhão"
+    },
+    {
+      "id": 10136,
+      "question": "Como é o nome do navio que cai dos céus logo antes de Jaya?",
+      "options": [
+        "St. Marks",
+        "St. Conn",
+        "St. Maria",
+        "St. Briss"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Milhão"
+    }
+  ],
+  "questionsSeries": [
+    {
+      "id": 3001,
+      "question": "Qual desses times o Time Urameshi NÃO enfrenta durante o Torneio das Trevas?",
+      "options": [
+        "Time Ichigaki",
+        "Time Uraotogi",
+        "Time Gorenja",
+        "Time Toguro"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Milhão"
+    }
+  ],
+  "aberturas": [
+    {
+      "id": 2001,
+      "title": "HunterxHunter",
+      "url": "https://www.youtube.com/watch?v=faqmNf_fZlE"
+    }
+  ]
+}
