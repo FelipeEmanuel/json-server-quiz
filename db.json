@@ -1829,7 +1829,7 @@
       "options": [
         "HunterxHunter",
         "One Piece",
-        "Bleach",
+        "Neon Genesis Evangelion",
         "Naruto"
       ],
       "inicial": "0",
@@ -1958,7 +1958,7 @@
       "title": "Death Note",
       "options": [
         "Death Note",
-        "Evangelion",
+        "Neon Genesis Evangelion",
         "Code Geass",
         "Cowboy Bebop"
       ],
@@ -1971,7 +1971,7 @@
       "title": "Tokyo Ghoul",
       "options": [
         "Erased",
-        "Evangelion",
+        "Neon Genesis Evangelion",
         "Noragami",
         "Tokyo Ghoul"
       ],
@@ -2094,7 +2094,7 @@
       ],
       "inicial": "0",
       "final": "25",
-      "url": "https://www.youtube.com/watch?v=faqmNf_fZlE"
+      "url": "https://www.youtube.com/watch?v=L1FdEBTJXus"
     },
     {
       "id": "2022",
@@ -2153,7 +2153,7 @@
       "title": "Fullmetal Alchemist Brotherhood",
       "options": [
         "Fullmetal Alchemist Brotherhood",
-        "Naruto",
+        "Another",
         "Dr. Stone",
         "Vinland Saga"
       ],
@@ -2178,7 +2178,7 @@
       "id": "2028",
       "title": "Kimetsu no Yaiba",
       "options": [
-        "Evangelion",
+        "Neon Genesis Evangelion",
         "Gintama",
         "Kimetsu no Yaiba",
         "Chainsaw Man"
@@ -2259,7 +2259,7 @@
         "Shingeki no Kyojin",
         "Chainsaw Man",
         "Code Geass",
-        "Evangelion"
+        "Neon Genesis Evangelion"
       ],
       "inicial": "0",
       "final": "25",
@@ -2272,7 +2272,7 @@
         "Vinland Saga",
         "Jujutsu Kaisen",
         "Shingeki no Kyojin",
-        "Naruto Shippuuden"
+        "Death Note"
       ],
       "inicial": "0",
       "final": "25",
@@ -2402,7 +2402,7 @@
         "JoJo Bizarre Adventure",
         "Code Geass",
         "Another",
-        "Evangelion"
+        "Neon Genesis Evangelion"
       ],
       "inicial": "0",
       "final": "25",
@@ -2453,7 +2453,7 @@
       "options": [
         "Digimon",
         "Dragon Ball",
-        "Cavaleiros do Zodíaco",
+        "Os Cavaleiros do Zodíaco",
         "Pokémon"
       ],
       "inicial": "0",
@@ -2466,7 +2466,7 @@
       "options": [
         "Digimon",
         "Yuyu Hakusho",
-        "Cavaleiros do Zodíaco",
+        "Os Cavaleiros do Zodíaco",
         "Fullmetal Alchemist Brotherhood"
       ],
       "inicial": "55",
@@ -2568,7 +2568,7 @@
       "id": "2057",
       "title": "Gintama",
       "options": [
-        "Cavaleiros do Zodiaco",
+        "Os Cavaleiros do Zodíaco",
         "One Piece",
         "Bleach",
         "Gintama"
@@ -2646,7 +2646,7 @@
       "id": "2063",
       "title": "Black Clover",
       "options": [
-        "One Piece",
+        "Fire Force",
         "Mob Psycho 100",
         "Black Clover",
         "Boku no Hero Academia"
@@ -2659,7 +2659,7 @@
       "id": "2064",
       "title": "Naruto",
       "options": [
-        "One Piece",
+        "Fullmetal Alchemist Brotherhood",
         "Naruto",
         "Bleach",
         "Dragon Ball Z"
@@ -2674,8 +2674,8 @@
       "options": [
         "Naruto",
         "One Piece",
-        "Hunter x Hunter",
-        "Attack on Titan"
+        "HunterxHunter",
+        "Shingeki no Kyojin"
       ],
       "inicial": "36",
       "final": "61",
@@ -2696,10 +2696,10 @@
     },    
     {
       "id": "2067",
-      "title": "Naruto Shippuden",
+      "title": "Naruto Shippuuden",
       "options": [
-        "Naruto Shippuden",
-        "Demon Slayer",
+        "Naruto Shippuuden",
+        "Kimetsu no Yaiba",
         "Bleach",
         "One Piece"
       ],
@@ -2709,12 +2709,12 @@
     },    
     {
       "id": "2068",
-      "title": "Naruto Shippuden",
+      "title": "Naruto Shippuuden",
       "options": [
-        "Naruto Shippuden",
-        "Attack on Titan",
+        "Naruto Shippuuden",
+        "Shingeki no Kyojin",
         "Dragon Ball Super",
-        "Hunter x Hunter"
+        "HunterxHunter"
       ],
       "inicial": "43",
       "final": "68",
@@ -2722,22 +2722,22 @@
     },    
     {
       "id": "2069",
-      "title": "Naruto Shippuden",
+      "title": "Naruto Shippuuden",
       "options": [
         "One Piece",
-        "Bleach",
-        "Naruto Shippuden",
-        "Demon Slayer"
+        "Dungeon Meshi",
+        "Naruto Shippuuden",
+        "Kimetsu no Yaiba"
       ],
       "inicial": "7",
       "final": "32",
-      "url": "https://www.youtube.com/watch?v=kmL3Eui"
+      "url": "https://www.youtube.com/watch?v=kmL3EuiiWXM"
     },    
     {
       "id": "2070",
-      "title": "Naruto Shippuden",
+      "title": "Naruto Shippuuden",
       "options": [
-        "Naruto Shippuden",
+        "Naruto Shippuuden",
         "One Piece",
         "Fairy Tail",
         "Dragon Ball Z"
@@ -2753,7 +2753,7 @@
         "Noragami",
         "Dragon Ball Super",
         "Nanatsu no Taizai",
-        "Naruto Shippuden"
+        "Naruto Shippuuden"
       ],
       "inicial": "32",
       "final": "57",
@@ -2765,7 +2765,7 @@
       "options": [
         "Pokémon",
         "Dragon Ball Z",
-        "Yu Yu Hakusho",
+        "Yuyu Hakusho",
         "Naruto"
       ],
       "inicial": "44",
@@ -2789,7 +2789,7 @@
       "id": "2074",
       "title": "Os Cavaleiros do Zodíaco",
       "options": [
-        "Yu Yu Hakusho",
+        "Yuyu Hakusho",
         "Os Cavaleiros do Zodíaco",
         "Hokuto no Ken",
         "Inuyasha"
@@ -2802,10 +2802,10 @@
       "id": "2075",
       "title": "Bleach",
       "options": [
-        "Naruto Shippuden",
+        "Naruto Shippuuden",
         "Dragon Ball Z",
         "Bleach",
-        "Yu Yu Hakusho"
+        "Yuyu Hakusho"
       ],
       "inicial": "43",
       "final": "68",
@@ -2815,8 +2815,8 @@
       "id": "2076",
       "title": "Bleach",
       "options": [
-        "Naruto Shippuden",
-        "One Piece",
+        "Naruto Shippuuden",
+        "Dragon Ball Super",
         "Bleach",
         "Noragami"
       ],
@@ -2828,10 +2828,10 @@
       "id": "2077",
       "title": "Bleach",
       "options": [
-        "Naruto Shippuden",
+        "Naruto Shippuuden",
         "Bleach",
         "Dragon Ball Z",
-        "Yu Yu Hakusho"
+        "Yuyu Hakusho"
       ],
       "inicial": "52",
       "final": "77",
