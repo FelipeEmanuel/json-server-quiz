@@ -289,6 +289,64 @@
       "musicaId": "2026"
     }
   ],
+  "usedImagens": [
+    {
+      "id": "f10b",
+      "questionId": "5044"
+    },
+    {
+      "id": "9565",
+      "questionId": "5030"
+    },
+    {
+      "id": "8fff",
+      "questionId": "5024"
+    },
+    {
+      "id": "daad",
+      "questionId": "5045"
+    },
+    {
+      "id": "d0c7",
+      "questionId": "5038"
+    },
+    {
+      "id": "b559",
+      "questionId": "5010"
+    },
+    {
+      "id": "0e98",
+      "questionId": "5021"
+    },
+    {
+      "id": "0df0",
+      "questionId": "5047"
+    },
+    {
+      "id": "dbbb",
+      "questionId": "5050"
+    },
+    {
+      "id": "5343",
+      "questionId": "5003"
+    },
+    {
+      "id": "b767",
+      "questionId": "5009"
+    },
+    {
+      "id": "8070",
+      "questionId": "5037"
+    },
+    {
+      "id": "30b8",
+      "questionId": "5017"
+    },
+    {
+      "id": "a232",
+      "questionId": "5001"
+    }
+  ],
   "questionsGeral": [
     {
       "id": "1",
@@ -3337,6 +3395,78 @@
       ],
       "correctAnswer": 1,
       "dificuldade": "Fácil"
+    },
+    {
+      "id": 10105,
+      "question": "[Dragon Ball] Quem fez o primeiro pedido para Shenlong na história de Dragon Ball?",
+      "options": [
+        "Goku",
+        "Yamcha",
+        "Oolong",
+        "Pilaf"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Médio"
+    },
+    {
+      "id": 10106,
+      "question": "[Dragon Ball] Na saga Freeza, com quem Piccolo se funde?",
+      "options": [
+        "Kami",
+        "Nail",
+        "Goku",
+        "Dendê"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10107,
+      "question": "[Dragon Ball] Qual o nome do pai do Goku?",
+      "options": [
+        "Bardock",
+        "Vegeta",
+        "Gohan",
+        "Raditz"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10108,
+      "question": "[Dragon Ball] Qual o nome do planeta onde Goku aprendeu o teletransporte?",
+      "options": [
+        "Namek",
+        "Yardrat",
+        "Metamoru",
+        "Vegeta"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Médio"
+    },
+    {
+      "id": 10109,
+      "question": "[One Piece] Qual o nome da ilha que Barba Negra e Ace duelam?",
+      "options": [
+        "Banaro",
+        "Rusukaina",
+        "Hachinosu",
+        "Villa"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Médio"
+    },
+    {
+      "id": 10110,
+      "question": "[Naruto] Qual o nome do Bijuu de cinco caudas?",
+      "options": [
+        "Gyuuki",
+        "Chomei",
+        "Kokuo",
+        "Matatabi"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Médio"
     }
   ],
   "questionsSeries": [
@@ -4384,6 +4514,61 @@
         "Abelhas"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 3096,
+      "question": "[As aventuras de Jackie Chan] Qual o nome da organização criminosa que Jackie Chan e seus amigos enfrentam em suas aventuras?",
+      "options": [
+        "Punho de Ferro",
+        "Mão Negra",
+        "Clã do Dragão",
+        "Irmandade da Serpente"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3097,
+      "question": "[As aventuras de Jackie Chan] Qual poder do talismã do macaco?",
+      "options": [
+        "Invisibilidade",
+        "Imortalidade",
+        "Transformar em qualquer animal",
+        "Controle do tempo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3098,
+      "question": "[Stranger Things] Jim Hopper tinha uma filha, qual era o seu nome?",
+      "options": [
+        "Sarah",
+        "Jessica",
+        "Emily",
+        "Anna"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3099,
+      "question": "[Stranger Things] Quem é o mestre de RPG do clube Hellfire?",
+      "options": [
+        "Mike Wheeler",
+        "Lucas Sinclair",
+        "Dustin Henderson",
+        "Eddie Munson"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3100,
+      "question": "[Star Wars] Qual a cor do sabre de luz de Mace Windu?",
+      "options": [
+        "Azul",
+        "Verde",
+        "Roxo",
+        "Vermelho"
+      ],
+      "correctAnswer": 2
     }
   ],
   "aberturas": [
@@ -5439,6 +5624,308 @@
       "inicial": "50",
       "final": "75",
       "url": "https://www.youtube.com/watch?v=asyT-N1Ip70"
+    }
+  ],
+  "imagens": [
+    {
+      "id": "5001",
+      "title": "HunterxHunter",
+      "imagem": "imgs/hxh-normal.jpg",
+      "imagemPixelada": "imgs/hxh-pixelada.jpg"
+    },
+    {
+      "id": "5002",
+      "title": "Avatar: A lenda de Aang",
+      "imagem": "imgs/avatar-normal.jpg",
+      "imagemPixelada": "imgs/avatar-pixelada.jpg"
+    },
+    {
+      "id": "5003",
+      "title": "Bob Esponja",
+      "imagem": "imgs/bobesponja-normal.jpg",
+      "imagemPixelada": "imgs/bobesponja-pixelada.jpg"
+    },
+    {
+      "id": "5004",
+      "title": "Breaking Bad",
+      "imagem": "imgs/breakingbad-normal.jpg",
+      "imagemPixelada": "imgs/breakingbad-pixelada.jpg"
+    },
+    {
+      "id": "5005",
+      "title": "Chainsaw Man",
+      "imagem": "imgs/chainsawman-normal.jpg",
+      "imagemPixelada": "imgs/chainsawman-pixelada.jpg"
+    },
+    {
+      "id": "5006",
+      "title": "Cowboy Bebop",
+      "imagem": "imgs/cowboy-bebop-normal.jpg",
+      "imagemPixelada": "imgs/cowboy-bebop-pixelada.jpg"
+    },
+    {
+      "id": "5007",
+      "title": "Crespúsculo",
+      "imagem": "imgs/crepusculo-normal.jpg",
+      "imagemPixelada": "imgs/crepusculo-pixelada.jpg"
+    },
+    {
+      "id": "5008",
+      "title": "Evangelion",
+      "imagem": "imgs/evangelion-normal.png",
+      "imagemPixelada": "imgs/evangelion-pixelada.png"
+    },
+    {
+      "id": "5009",
+      "title": "Friends",
+      "imagem": "imgs/friends-normal.jpg",
+      "imagemPixelada": "imgs/friends-pixelada.jpg"
+    },
+    {
+      "id": "5010",
+      "title": "Game of Thrones",
+      "imagem": "imgs/got-normal.jpg",
+      "imagemPixelada": "imgs/got-pixelada.jpg"
+    },
+    {
+      "id": "5011",
+      "title": "Harry Potter",
+      "imagem": "imgs/harrypotter-normal.jpg",
+      "imagemPixelada": "imgs/harrypotter-pixelada.jpg"
+    },
+    {
+      "id": "5012",
+      "title": "House of the Dragon",
+      "imagem": "imgs/hotd-normal.jpg",
+      "imagemPixelada": "imgs/hotd-pixelada.jpg"
+    },
+    {
+      "id": "5013",
+      "title": "O Estranho Mundo de Jack",
+      "imagem": "imgs/jack-normal.jpg",
+      "imagemPixelada": "imgs/jack-pixelada.jpg"
+    },
+    {
+      "id": "5014",
+      "title": "Jujutsu Kaisen",
+      "imagem": "imgs/jujutsu-normal.jpg",
+      "imagemPixelada": "imgs/jujutsu-pixelada.jpg"
+    },
+    {
+      "id": "5015",
+      "title": "Serial Experiments Lain",
+      "imagem": "imgs/lain-normal.jpg",
+      "imagemPixelada": "imgs/lain-pixelada.jpg"
+    },
+    {
+      "id": "5016",
+      "title": "Senhor dos Anéis",
+      "imagem": "imgs/lor-normal.jpg",
+      "imagemPixelada": "imgs/lor-pixelada.jpg"
+    },
+    {
+      "id": "5017",
+      "title": "Matrix",
+      "imagem": "imgs/matrix-normal.jpg",
+      "imagemPixelada": "imgs/matrix-pixelada.jpg"
+    },
+    {
+      "id": "5018",
+      "title": "Shrek",
+      "imagem": "imgs/shrek-normal.jpg",
+      "imagemPixelada": "imgs/shrek-pixelada.jpg"
+    },
+    {
+      "id": "5019",
+      "title": "The Big Bang Theory",
+      "imagem": "imgs/tbbt-normal.jpg",
+      "imagemPixelada": "imgs/tbbt-pixelada.jpg"
+    },
+    {
+      "id": "5020",
+      "title": "Yuyu Hakusho",
+      "imagem": "imgs/yuyuhakusho-normal.jpg",
+      "imagemPixelada": "imgs/yuyuhakusho-pixelada.jpg"
+    },
+    {
+      "id": "5021",
+      "title": "Black Clover",
+      "imagem": "imgs/blackclover-normal.jpg",
+      "imagemPixelada": "imgs/blackclover-pixelada.jpg"
+    },
+    {
+      "id": "5022",
+      "title": "Bleach",
+      "imagem": "imgs/bleach-normal.jpg",
+      "imagemPixelada": "imgs/bleach-pixelada.jpg"
+    },
+    {
+      "id": "5023",
+      "title": "Os Cavaleiros do Zodíaco",
+      "imagem": "imgs/cavaleiros-normal.jpg",
+      "imagemPixelada": "imgs/cavaleiros-pixelada.jpg"
+    },
+    {
+      "id": "5024",
+      "title": "Dandadan",
+      "imagem": "imgs/dandadan-normal.jpg",
+      "imagemPixelada": "imgs/dandadan-pixelada.jpg"
+    },
+    {
+      "id": "5025",
+      "title": "Dragon Ball",
+      "imagem": "imgs/db-normal.jpg",
+      "imagemPixelada": "imgs/db-pixelada.jpg"
+    },
+    {
+      "id": "5026",
+      "title": "Kimetsu no Yaiba",
+      "imagem": "imgs/demonslayer-normal.jpg",
+      "imagemPixelada": "imgs/demonslayer-pixelada.jpg"
+    },
+    {
+      "id": "5027",
+      "title": "Digimon",
+      "imagem": "imgs/digimon-normal.jpg",
+      "imagemPixelada": "imgs/digimon-pixelada.jpg"
+    },
+    {
+      "id": "5028",
+      "title": "Fullmetal Alchemist Brotherhood",
+      "imagem": "imgs/fmab-normal.jpg",
+      "imagemPixelada": "imgs/fmab-pixelada.jpg"
+    },
+    {
+      "id": "5029",
+      "title": "Fairy Tail",
+      "imagem": "imgs/ft-normal.jpg",
+      "imagemPixelada": "imgs/ft-pixelada.jpg"
+    },
+    {
+      "id": "5030",
+      "title": "Gintama",
+      "imagem": "imgs/gintama-normal.jpg",
+      "imagemPixelada": "imgs/gintama-pixelada.jpg"
+    },
+    {
+      "id": "5031",
+      "title": "Naruto",
+      "imagem": "imgs/naruto-normal.jpg",
+      "imagemPixelada": "imgs/naruto-pixelada.jpg"
+    },
+    {
+      "id": "5032",
+      "title": "One Piece",
+      "imagem": "imgs/onepiece-normal.jpg",
+      "imagemPixelada": "imgs/onepiece-pixelada.jpg"
+    },
+    {
+      "id": "5033",
+      "title": "Pokémon",
+      "imagem": "imgs/pokemon-normal.jpg",
+      "imagemPixelada": "imgs/pokemon-pixelada.jpg"
+    },
+    {
+      "id": "5034",
+      "title": "Shingeki no Kyojin",
+      "imagem": "imgs/shingeki-normal.jpg",
+      "imagemPixelada": "imgs/shingeki-pixelada.jpg"
+    },
+    {
+      "id": "5035",
+      "title": "Brooklyn 99",
+      "imagem": "imgs/b99-normal.jpg",
+      "imagemPixelada": "imgs/b99-pixelada.jpg"
+    },
+    {
+      "id": "5036",
+      "title": "Toy Story",
+      "imagem": "imgs/toystory-normal.jpg",
+      "imagemPixelada": "imgs/toystory-pixelada.jpg"
+    },
+    {
+      "id": "5037",
+      "title": "Procurando Nemo",
+      "imagem": "imgs/nemo-normal.jpg",
+      "imagemPixelada": "imgs/nemo-pixelada.jpg"
+    },
+    {
+      "id": "5038",
+      "title": "Scooby-Doo",
+      "imagem": "imgs/scooby-doo-normal.jpg",
+      "imagemPixelada": "imgs/scooby-doo-pixelada.jpg"
+    },
+    {
+      "id": "5039",
+      "title": "O Rei Leão",
+      "imagem": "imgs/reileao-normal.jpg",
+      "imagemPixelada": "imgs/reileao-pixelada.jpg"
+    },
+    {
+      "id": "5040",
+      "title": "How i Met Your Mother",
+      "imagem": "imgs/himym-normal.jpg",
+      "imagemPixelada": "imgs/himym-pixelada.jpg"
+    },
+    {
+      "id": "5041",
+      "title": "A Era do Gelo",
+      "imagem": "imgs/eradogelo-normal.jpg",
+      "imagemPixelada": "imgs/eradogelo-pixelada.jpg"
+    },
+    {
+      "id": "5042",
+      "title": "Grey's Anatomy",
+      "imagem": "imgs/greysanatomy-normal.jpg",
+      "imagemPixelada": "imgs/greysanatomy-pixelada.jpg"
+    },
+    {
+      "id": "5043",
+      "title": "Hora de Aventura",
+      "imagem": "imgs/horadeaventura-normal.jpg",
+      "imagemPixelada": "imgs/horadeaventura-pixelada.jpg"
+    },
+    {
+      "id": "5044",
+      "title": "High School Musical",
+      "imagem": "imgs/hsm-normal.jpg",
+      "imagemPixelada": "imgs/hsm-pixelada.jpg"
+    },
+    {
+      "id": "5045",
+      "title": "Jogos Vorazes",
+      "imagem": "imgs/jogosvorazes-normal.jpg",
+      "imagemPixelada": "imgs/jogosvorazes-pixelada.jpg"
+    },
+    {
+      "id": "5046",
+      "title": "Madagascar",
+      "imagem": "imgs/madagascar-normal.jpg",
+      "imagemPixelada": "imgs/madagascar-pixelada.jpg"
+    },
+    {
+      "id": "5047",
+      "title": "Percy Jackson",
+      "imagem": "imgs/percyjackson-normal.jpg",
+      "imagemPixelada": "imgs/percyjackson-pixelada.jpg"
+    },
+    {
+      "id": "5048",
+      "title": "Os Simpsons",
+      "imagem": "imgs/simpsons-normal.jpg",
+      "imagemPixelada": "imgs/simpsons-pixelada.jpg"
+    },
+    {
+      "id": "5049",
+      "title": "Star Wars",
+      "imagem": "imgs/starwars-normal.jpg",
+      "imagemPixelada": "imgs/starwars-pixelada.jpg"
+    },
+    {
+      "id": "5050",
+      "title": "The Vampire Diaries",
+      "imagem": "imgs/tvd-normal.jpg",
+      "imagemPixelada": "imgs/tvd-pixelada.jpg"
     }
   ]
 }
