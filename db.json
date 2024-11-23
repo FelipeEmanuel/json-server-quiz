@@ -1,9 +1,295 @@
 {
   "usedQuestionsAnime": [],
-  "usedQuestionsGeral": [],
+  "usedQuestionsGeral": [
+    {
+      "id": "79a3",
+      "questionId": "98"
+    },
+    {
+      "id": "b142",
+      "questionId": "5"
+    },
+    {
+      "id": "841e",
+      "questionId": "25"
+    },
+    {
+      "id": "105d",
+      "questionId": "24"
+    },
+    {
+      "id": "9646",
+      "questionId": "85"
+    },
+    {
+      "id": "266f",
+      "questionId": "16"
+    },
+    {
+      "id": "00a7",
+      "questionId": "121"
+    },
+    {
+      "id": "ba99",
+      "questionId": "64"
+    }
+  ],
   "usedQuestionsSeries": [],
-  "usedAberturas": [],
-  "questionsGerais": [
+  "usedAberturas": [
+    {
+      "id": "3869",
+      "musicaId": "2035"
+    },
+    {
+      "id": "fe8b",
+      "musicaId": "2023"
+    },
+    {
+      "id": "3551",
+      "musicaId": "2009"
+    },
+    {
+      "id": "3e4a",
+      "musicaId": "2079"
+    },
+    {
+      "id": "99d1",
+      "musicaId": "2020"
+    },
+    {
+      "id": "8703",
+      "musicaId": "2051"
+    },
+    {
+      "id": "56d0",
+      "musicaId": "2073"
+    },
+    {
+      "id": "a78b",
+      "musicaId": "2079"
+    },
+    {
+      "id": "b9b7",
+      "musicaId": "2052"
+    },
+    {
+      "id": "ca25",
+      "musicaId": "2010"
+    },
+    {
+      "id": "5d54",
+      "musicaId": "2009"
+    },
+    {
+      "id": "dc23",
+      "musicaId": "2025"
+    },
+    {
+      "id": "7584",
+      "musicaId": "2072"
+    },
+    {
+      "id": "418b",
+      "musicaId": "2019"
+    },
+    {
+      "id": "977a",
+      "musicaId": "2014"
+    },
+    {
+      "id": "8fb2",
+      "musicaId": "2056"
+    },
+    {
+      "id": "b897",
+      "musicaId": "2064"
+    },
+    {
+      "id": "2b0c",
+      "musicaId": "2067"
+    },
+    {
+      "id": "3b8a",
+      "musicaId": "2069"
+    },
+    {
+      "id": "d945",
+      "musicaId": "2076"
+    },
+    {
+      "id": "35df",
+      "musicaId": "2044"
+    },
+    {
+      "id": "5020",
+      "musicaId": "2030"
+    },
+    {
+      "id": "9e11",
+      "musicaId": "2034"
+    },
+    {
+      "id": "e3ee",
+      "musicaId": "2048"
+    },
+    {
+      "id": "a1ae",
+      "musicaId": "2041"
+    },
+    {
+      "id": "2f6d",
+      "musicaId": "2078"
+    },
+    {
+      "id": "2f66",
+      "musicaId": "2068"
+    },
+    {
+      "id": "5263",
+      "musicaId": "2032"
+    },
+    {
+      "id": "c2b6",
+      "musicaId": "2047"
+    },
+    {
+      "id": "0d0f",
+      "musicaId": "2055"
+    },
+    {
+      "id": "3bb3",
+      "musicaId": "2077"
+    },
+    {
+      "id": "3927",
+      "musicaId": "2035"
+    },
+    {
+      "id": "eee4",
+      "musicaId": "2045"
+    },
+    {
+      "id": "fd92",
+      "musicaId": "2029"
+    },
+    {
+      "id": "50a4",
+      "musicaId": "2033"
+    },
+    {
+      "id": "e159",
+      "musicaId": "2001"
+    },
+    {
+      "id": "b73a",
+      "musicaId": "2042"
+    },
+    {
+      "id": "6e29",
+      "musicaId": "2006"
+    },
+    {
+      "id": "21f9",
+      "musicaId": "2002"
+    },
+    {
+      "id": "74df",
+      "musicaId": "2016"
+    },
+    {
+      "id": "bbaf",
+      "musicaId": "2043"
+    },
+    {
+      "id": "b0b6",
+      "musicaId": "2049"
+    },
+    {
+      "id": "d3b3",
+      "musicaId": "2071"
+    },
+    {
+      "id": "867d",
+      "musicaId": "2023"
+    },
+    {
+      "id": "8612",
+      "musicaId": "2058"
+    },
+    {
+      "id": "c2a8",
+      "musicaId": "2031"
+    },
+    {
+      "id": "8699",
+      "musicaId": "2003"
+    },
+    {
+      "id": "61a1",
+      "musicaId": "2022"
+    },
+    {
+      "id": "b5b5",
+      "musicaId": "2060"
+    },
+    {
+      "id": "c051",
+      "musicaId": "2008"
+    },
+    {
+      "id": "6b9e",
+      "musicaId": "2017"
+    },
+    {
+      "id": "43bc",
+      "musicaId": "2013"
+    },
+    {
+      "id": "7be9",
+      "musicaId": "2039"
+    },
+    {
+      "id": "622c",
+      "musicaId": "2054"
+    },
+    {
+      "id": "ecae",
+      "musicaId": "2020"
+    },
+    {
+      "id": "1f7c",
+      "musicaId": "2011"
+    },
+    {
+      "id": "579b",
+      "musicaId": "2038"
+    },
+    {
+      "id": "2549",
+      "musicaId": "2021"
+    },
+    {
+      "id": "1b3c",
+      "musicaId": "2062"
+    },
+    {
+      "id": "2197",
+      "musicaId": "2036"
+    },
+    {
+      "id": "5059",
+      "musicaId": "2057"
+    },
+    {
+      "id": "9842",
+      "musicaId": "2004"
+    },
+    {
+      "id": "8937",
+      "musicaId": "2026"
+    }
+  ],
+  "questionsGeral": [
     {
       "id": "1",
       "question": "Fidel Castro nasceu em que país?",
@@ -1479,7 +1765,7 @@
       ],
       "correctAnswer": 3,
       "dificuldade": "Difícil"
-    },  
+    },
     {
       "id": "124",
       "question": "O que é glicose?",
@@ -1510,8 +1796,8 @@
       "options": [
         "A cidade perdida de ouro",
         "A fonte da juventude",
-        "Unicórnios",
-        "Seu gato"
+        "Temperos",
+        "Tecidos"
       ],
       "correctAnswer": 1,
       "dificuldade": "Difícil"
@@ -1806,20 +2092,2298 @@
     }
   ],
   "questionsAnime": [
-    
+    {
+      "id": 1001,
+      "question": "[One Piece] Qual o animal sagrado de Alabasta?",
+      "options": [
+        "Gato Marinho",
+        "Caranguejo do Deserto",
+        "Escorpião da Areia",
+        "Camelo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1002,
+      "question": "[One Piece] Qual o último dos Chapéus de Palha (exceto Luffy) a ser transportado por Kuma em Sabaody?",
+      "options": [
+        "Nami",
+        "Franky",
+        "Robin",
+        "Chopper"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1003,
+      "question": "[One Piece] Qual desses animais não é uma das Bestas Carcereiras de Impel Down?",
+      "options": [
+        "Leão",
+        "Zebra",
+        "Chihuahua",
+        "Koala"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1004,
+      "question": "[One Piece] Quais foram os três primeiros Chapéus de Palha a chegarem em Sabaody após os dois anos?",
+      "options": [
+        "Zoro, Franky e Nami",
+        "Zoro, Usopp e Nami",
+        "Zoro, Franky e Chopper",
+        "Zoro, Chopper e Nami"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1005,
+      "question": "[One Piece] Como se chama a instituição da Madre Carmel?",
+      "options": [
+        "Lar das Ovelhas",
+        "Lar da Amizade",
+        "Lar das Crianças Carentes",
+        "Lar do Amor"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1006,
+      "question": "[One Piece] O que Ceasar Clown usava para drogar as crianças do laboratório?",
+      "options": [
+        "Pílulas",
+        "Sanduíches",
+        "Sorvete",
+        "Doces"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1007,
+      "question": "[One Piece] Qual o nome dos caçadores de recompensas amigos de Zoro no East Blue?",
+      "options": [
+        "Johnny e Yosaku",
+        "Yoshi e Shinji",
+        "John e Kurata",
+        "Yosaku e Yoshi"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1008,
+      "question": "[Os Cavaleiros do Zodíaco] Qual o nome do golpe proibido por Atena, que é desferido por 3 Cavaleiros de Ouro em conjunto?",
+      "options": [
+        "Raio Solar",
+        "Exclamação de Atena",
+        "Clamor do Zodíaco",
+        "Execução Aurora"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1009,
+      "question": "[Os Cavaleiros do Zodíaco] Qual desses não é um guerreiro Deus de Asgard?",
+      "options": [
+        "Mime de Benetnasch",
+        "Hagen de Merak",
+        "Sorento de Sirene",
+        "Siegfried de Dubhe"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1010,
+      "question": "[Os Cavaleiros do Zodíaco] Que espectro derrota Aldebaran de Touro?",
+      "options": [
+        "Rhadamanthys de Wyvern",
+        "Minos de Griffon",
+        "Niobe de Deep",
+        "Valentine de Harpia"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1011,
+      "question": "[Os Cavaleiros do Zodíaco] Qual desses cavaleiros de ouro não enfrentou Rhadamanthys de Wyvern no castelo de Hades?",
+      "options": [
+        "Afrodite de Peixes",
+        "Mu de Áries",
+        "Aiolia de Leão",
+        "Milo de Escorpião"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1012,
+      "question": "[Os Cavaleiros do Zodíaco] Qual dos juízes do inferno foi derrotado por Ikki de Fênix?",
+      "options": [
+        "Aiacos de Garuda",
+        "Minos de Griffon",
+        "Rhadamanthys de Wyvern",
+        "Valentine de Harpia"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1013,
+      "question": "[Os Cavaleiros do Zodíaco] Qual marina de Poseidon é responsável por defender o pilar do Oceano Atlântico Sul?",
+      "options": [
+        "Sorento de Sirene",
+        "Kanon de Gêmeos",
+        "Io de Scylla",
+        "Bian de Cavalo Marinho"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1014,
+      "question": "[Naruto] Qual das seguintes opções era um codinome usado por Yamato na anbu?",
+      "options": [
+        "Hinoe",
+        "Soza",
+        "Ibushi",
+        "Hotaru"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1015,
+      "question": "[Naruto] Qual desses países não faz parte dos Cinco Grandes Países Shinobi?",
+      "options": [
+        "País do Trovão",
+        "País do Ferro",
+        "País do Vento",
+        "País da Água"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1016,
+      "question": "[Naruto] Qual era o nome do protagonista do livro de Jiraiya que inspirou o nome de Naruto?",
+      "options": [
+        "Naruto Musasabi",
+        "Naruto Umino",
+        "Naruto Teuchi",
+        "Naruto Ayame"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1017,
+      "question": "[Naruto] Qual o significado do kanji tatuado na testa de Gaara?",
+      "options": [
+        "Paz",
+        "Morte",
+        "Amor",
+        "Vermelho"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1018,
+      "question": "[Naruto] Com qual dos elementos Naruto possui maior afinidade?",
+      "options": [
+        "Água",
+        "Terra",
+        "Trovão",
+        "Vento"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1019,
+      "question": "[Naruto] Quais os membros da Akatsuki que derrotam e sequestram Gaara?",
+      "options": [
+        "Itachi e Kisame",
+        "Deidara e Sasori",
+        "Hidan e Kakuzu",
+        "Deidara e Tobi"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1020,
+      "question": "[Bleach] Qual é o nome da shikai de Kuchiki Rukia?",
+      "options": [
+        "Sode no Shirayuki",
+        "Zangetsu",
+        "Tenshintai",
+        "Hozukimaru"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1021,
+      "question": "[Bleach] Quem é o espada numero 1?",
+      "options": [
+        "Tier Harribel",
+        "Coyote Starrk",
+        "Baraggan Louisenbairn",
+        "Szayelaporro Granz"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1022,
+      "question": "[Bleach] O que é o Dangai?",
+      "options": [
+        "Um portal entre o Mundo Humano e a Soul Society.",
+        "O local onde as almas purificadas residem.",
+        "Uma técnica secreta usada pelos Shinigamis.",
+        "Um local de treinamento especial utilizado por Ichigo."
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1023,
+      "question": "[Bleach] Qual é o nome do grupo de humanos com poderes espirituais liderado por Ginjo?",
+      "options": [
+        "Quincy",
+        "Bounts",
+        "Fullbringers",
+        "Vizards"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1024,
+      "question": "[Bleach] Quem ensina Ichigo a ativar seu Bankai?",
+      "options": [
+        "Kisuke Urahara",
+        "Rukia Kuchiki",
+        "Genryuusai Yamamoto",
+        "Yoruichi Shihouin"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1025,
+      "question": "[Bleach] O que é um Vizard?",
+      "options": [
+        "Shinigamis que adquiriram poderes de Hollow",
+        "Humanos com poderes espirituais",
+        "Hollows que se tornaram Shinigamis",
+        "Espadas do mais alto ranking"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1026,
+      "question": "[FMAB] Com que idade Edward Elric se tornou alquimista federal?",
+      "options": [
+        "10 anos",
+        "12 anos",
+        "14 anos",
+        "15 anos"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1027,
+      "question": "[FMAB] Qual é o nome do pai de Nina?",
+      "options": [
+        "Shou Tucker",
+        "Maes Hughes",
+        "Roy Mustang",
+        "Van Hohenheim"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1028,
+      "question": "[FMAB] Qual animal faz companhia à May Chang?",
+      "options": [
+        "Panda",
+        "Porquinho da Índia",
+        "Macaco",
+        "Hamster"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1029,
+      "question": "[FMAB] Qual o nome da cidade natal dos irmãos Elric?",
+      "options": [
+        "Creta",
+        "Dublith",
+        "Artemis",
+        "Resembool"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1030,
+      "question": "[Jujutsu Kaisen] Como se chama a principal habilidade genética herdada por Satoru Gojo",
+      "options": [
+        "As Dez sombras",
+        "Mahoraga",
+        "Os Seis Olhos",
+        "Ressonância das Almas"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "´Fácil"
+    },
+    {
+      "id": 1031,
+      "question": "[Jujutsu Kaisen] Qual o nome da expansão de domínio de Megumi Fushiguro?",
+      "options": [
+        "Santuário Malevolente",
+        "Montanha do Caixão de Ferro",
+        "Jardim das Quimeras Sombrias",
+        "Prisão Mahayana"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1032,
+      "question": "[Jujutsu Kaisen] As cidades que possuem centros de ensino de feiticeiros Jujutsu são...",
+      "options": [
+        "Tóquio e Osaka",
+        "Osaka e Sendai",
+        "Tóquio e Quioto",
+        "Quioto e Sendai"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1033,
+      "question": "[Jujutsu Kaisen] Qual o nome da Idol que Aoi Todo é apaixonado?",
+      "options": [
+        "Takada-chan",
+        "Futaba-chan",
+        "Yuki-chan",
+        "Rika-chan"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1034,
+      "question": "[HunterxHunter] Quantos andares possui a Torre do Céu?",
+      "options": [
+        "200",
+        "232",
+        "251",
+        "266"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1035,
+      "question": "[HunterxHunter] Quais membros da Trupe são mortos por Kurapika em Yorkshin?",
+      "options": [
+        "Uvogin e Pakunoda",
+        "Uvogin e Franklin",
+        "Uvogin e Machi",
+        "Machi e Pakunoda"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1036,
+      "question": "[HunterxHunter] Qual é o número de Hisoka no Genei Ryodan?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1037,
+      "question": "[HunterxHunter] Qual é o clã extinto de Kurapika que tem como característica os olhos escarlates?",
+      "options": [
+        "Zoldyck",
+        "Freaks",
+        "Nostrade",
+        "Kuruta"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1038,
+      "question": "[HunterxHunter] Quantas cartas são necessárias para completar o jogo Greed Island?",
+      "options": [
+        "75 cartas",
+        "100 cartas",
+        "140 cartas",
+        "150 cartas"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1039,
+      "question": "[Kimetsu no Yaiba] Qual o estilo de respiração de Shinobu Kocho?",
+      "options": [
+        "Respiração do Veneno",
+        "Respiração do Inseto",
+        "Respiração do Trovão",
+        "Respiração do Vento"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1040,
+      "question": "[Kimetsu no Yaiba] Quem derrota Rengoku, o hashira das chamas?",
+      "options": [
+        "Akaza",
+        "Muzan",
+        "Douma",
+        "Kokushibo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1041,
+      "question": "[Kimetsu no Yaiba] Que demônio é derrotado por Tanjiro e Nezuko no monte Natagumo?",
+      "options": [
+        "Gyutaro",
+        "Akaza",
+        "Rui",
+        "Daki"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1042,
+      "question": "[Kimetsu no Yaiba] Qual lua inferior Tanjiro enfrenta no ‘Trem Infinito’?",
+      "options": [
+        "Enmu",
+        "Gyokko",
+        "Daki",
+        "Rui"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1043,
+      "question": "[Black Clover] De qual esquadrão Yuno faz parte?",
+      "options": [
+        "Águias de Prata",
+        "Touros Negros",
+        "Orcas Púrpuras",
+        "Alvorecer Dourado"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 1044,
+      "question": "[Black Clover] Qual elemento Noelle Silva controla?",
+      "options": [
+        "Fogo",
+        "Água",
+        "Gelo",
+        "Vento"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1045,
+      "question": "[Black Clover] Qual criatura demoníaca está conectada ao grimório de Asta?",
+      "options": [
+        "Zagred",
+        "Liebe",
+        "Lucifero",
+        "Megicula"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1046,
+      "question": "[Black Clover] Quem é a princesa do reino Heart?",
+      "options": [
+        "Mimosa Vermillion",
+        "Undine",
+        "Lolopechika",
+        "Acier Silva"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1047,
+      "question": "[Black Clover] Qual desse demônios não faz parte da Dark Triad?",
+      "options": [
+        "Zenon",
+        "Vanica",
+        "Zagred",
+        "Dante"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1048,
+      "question": "[Shingeki no Kyojin] Quantos Titãs Originais existem?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1049,
+      "question": "[Shingeki no Kyojin] Como se chamam as três muralhas da ilha Paradis?",
+      "options": [
+        "Eldia, Rose e Maria",
+        "Sina, Fritz e Rose",
+        "Rose, Sina e Maria",
+        "Maria, Sina e Marley"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1050,
+      "question": "[Shingeki no Kyojin] Qual o titã de Porco Galliard?",
+      "options": [
+        "Carroceiro",
+        "Martelo de Guerra",
+        "Colossal",
+        "Mandíbula"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1051,
+      "question": "[Shingeki no Kyojin] Qual o número do batalhão de Eren e cia.?",
+      "options": [
+        "101",
+        "104",
+        "110",
+        "112"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1052,
+      "question": "[Gintama] Como é chamada a força policial de Edo?",
+      "options": [
+        "Mimawarigumi",
+        "Shinsengumi",
+        "Yorozuya",
+        "Amanto"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1053,
+      "question": "[Gintama] Qual alimento Hijikata era viciado em comer?",
+      "options": [
+        "Banana",
+        "Picles",
+        "Maionese",
+        "Ovos"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1054,
+      "question": "[Gintama] Como são chamados os alienígenas que invadem a Terra, derrotam os Samurais e a controlam?",
+      "options": [
+        "Yorozuya",
+        "Amanto",
+        "Yato",
+        "Kamui"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1055,
+      "question": "[Gintama] Qual o nome do cachorro do Yorozuya?",
+      "options": [
+        "Sadako",
+        "Sadaharu",
+        "Komako",
+        "Gero"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1056,
+      "question": "[My Hero Academia] O poder One for All é passado por gerações, de qual geração Izuku Midoriya é?",
+      "options": [
+        "7ª",
+        "8ª",
+        "9ª",
+        "10ª"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1057,
+      "question": "[My Hero Academia] Qual desses heróis NÃO é professor da UA?",
+      "options": [
+        "Ectoplasm",
+        "Power Loader",
+        "Midnight",
+        "Edgeshot"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1058,
+      "question": "[My Hero Academia] Quais alunos da U.A. não conseguem obter a licença de herói provisória na primeira tentativa?",
+      "options": [
+        "Bakugo e Todoroki",
+        "Midoriya e Uraraka",
+        "Todoroki e Tokoyami",
+        "Kirishima e Bakugo"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1059,
+      "question": "[My Hero Academia] Qual o nome da grande prisão para vilões extremamente perigosos?",
+      "options": [
+        "Kamino",
+        "Tartarus",
+        "Hassaikai",
+        "Horus"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1060,
+      "question": "[My Hero Academia] Qual a individualidade da mãe de Midoriya Izuku?",
+      "options": [
+        "Criar pequenas chamas",
+        "Atrair pequenos objetos pra ela",
+        "Manipular livremente fios de cabelo",
+        "Cortar objetos de forma milimétrica"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1061,
+      "question": "[Chainsaw Man] Após ser esquartejado e ter seu corpo jogado no lixo, Denji faz um pacto com o demônio da motosserra, qual é a cláusula do contrato?",
+      "options": [
+        "Matar o chefe da Yakuza",
+        "Realizar seus sonhos",
+        "Se tornar o mais forte",
+        "Obter de volta o olho esquerdo"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1062,
+      "question": "[Chainsaw Man] Qual desses personagens é conhecido por feder e não dar descarga no vaso sanitário?",
+      "options": [
+        "Kobeni",
+        "Himeno",
+        "Denji",
+        "Power"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1063,
+      "question": "[Chainsaw Man] O que foi que Himeno prometeu a Denji caso ele matasse o demônio da eternidade?",
+      "options": [
+        "Dormir na casa dela",
+        "Uma cerveja",
+        "Um beijo",
+        "Dinheiro"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1064,
+      "question": "[Chainsaw Man] Qual desses demônios Aki deseja vingança?",
+      "options": [
+        "Demônio do futuro",
+        "Demônio da arma de fogo",
+        "Demônio Raposa",
+        "Demônio da Motosserra"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1065,
+      "question": "[Chainsaw Man] Onde Makima e Denji passariam as férias se não fosse pelo escândalo do Chainsaw Man na mídia?",
+      "options": [
+        "Paris",
+        "Shibuya",
+        "Kyoto",
+        "Enoshima"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1066,
+      "question": "[Death Note] Qual desses personagens não fez o acordo dos Olhos de Shinigami?",
+      "options": [
+        "Kyosuke Higuchi",
+        "Soichiro Yagami",
+        "Shuichi Aizawa",
+        "Teru Mikami"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1067,
+      "question": "[Death Note] Quantos tempo leva para alguém morrer após ter seu nome escrito no Death Note se a causa não for especificada?",
+      "options": [
+        "25 segundos",
+        "40 segundos",
+        "1 minuto",
+        "2 minutos"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1068,
+      "question": "[Evangelion] Quem é o piloto do Evangelion Unidade 02?",
+      "options": [
+        "Shinji Ikari",
+        "Rei Ayanami",
+        "Asuka Langley",
+        "Toji Suzuhara"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1069,
+      "question": "[Evangelion] Qual dos personagens abaixo é secretamente um Anjo?",
+      "options": [
+        "Asuka Langley",
+        "Kaoru Nagisa",
+        "Rei Ayanami",
+        "Ritsuko Akagi"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1070,
+      "question": "[Evangelion] Quem criou o sistemas de supercomputadores MAGI?",
+      "options": [
+        "Yui Ikari",
+        "Ryoji Kaji",
+        "Ritsuko Akagi",
+        "Naoko Akagi"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1071,
+      "question": "[Evangelion] Qual é o nome do primeiro Anjo a atacar Tóquio-3?",
+      "options": [
+        "Sachiel",
+        "Zeruel",
+        "Lilith",
+        "Armisael"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1072,
+      "question": "[Evangelion] Quantos dias Shinji ficou em estado quântico dentro da Unidade 01 antes de ser expelido?",
+      "options": [
+        "7 dias",
+        "21 dias",
+        "30 dias",
+        "33 dias"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1073,
+      "question": "[Yuyu Hakusho] Qual é o poder especial de Kazuma Kuwabara?",
+      "options": [
+        "Espada Espiritual",
+        "Jagan (Terceiro Olho)",
+        "Olhos de Fogo",
+        "Escudo Espiritual"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1074,
+      "question": "[Yuyu Hakusho] Como se chama a irmã de Hiei?",
+      "options": [
+        "Keiko",
+        "Botan",
+        "Yukina",
+        "Shizuka"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1075,
+      "question": "[Yuyu Hakusho] Qual destes não é um dos Reis do Makai?",
+      "options": [
+        "Raizen",
+        "Sensui",
+        "Yomi",
+        "Mukuro"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1076,
+      "question": "[Yuyu Hakusho] No Torneio das Trevas, quem enfrentou o bêbado Tiyu?",
+      "options": [
+        "Hiei",
+        "Kurama",
+        "Kuwabara",
+        "Yusuke"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1077,
+      "question": "[Yuyu Hakusho] Qual o nome do Youkai famoso por matar 99 mestres?",
+      "options": [
+        "Sakyo",
+        "Lando",
+        "Genbu",
+        "Seiryu"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1078,
+      "question": "[Fire Force] Os humanos vítimas da combustão humana espontânea são chamados de...?",
+      "options": [
+        "Solistas",
+        "Adolla Burst",
+        "Infernais",
+        "Pilares"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 1079,
+      "question": "[Fire Force] Shinra é parte da...",
+      "options": [
+        "5º Companhia de Bombeiros",
+        "6º Companhia de Bombeiros",
+        "7º Companhia de Bombeiros",
+        "8º Companhia de Bombeiros"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1080,
+      "question": "[Fire Force] Qual o nome da espada de Arthur Boyle",
+      "options": [
+        "Excalibur",
+        "Muramasa",
+        "Durandal",
+        "Gram"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1081,
+      "question": "[Fire Force] Como são chamados os indivíduos que possuem um Adolla Burst",
+      "options": [
+        "Guardiães",
+        "Cataclismas",
+        "Evangelistas",
+        "Pilares"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1082,
+      "question": "[Fire Force] O Grande Cataclisma ocorreu quantos anos antes do nascimento de Shinra?",
+      "options": [
+        "500",
+        "324",
+        "250",
+        "198"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1083,
+      "question": "[Nanatsu no Taizai] Qual dos pecados representa Ban?",
+      "options": [
+        "Ira",
+        "Inveja",
+        "Preguiça",
+        "Ganância"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1084,
+      "question": "[Nanatsu no Taizai] Como é chamado o grupo de elite do exército do Rei Demônio?",
+      "options": [
+        "Os Dez Mandamentos",
+        "O Rugido do Amanhecer",
+        "Cavaleiros do Apocalipse",
+        "Espadas do Rei Demônio"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1085,
+      "question": "[Nanatsu no Taizai] Qual o nome do reino onde a história começa?",
+      "options": [
+        "Britannia",
+        "Camelot",
+        "Danafor",
+        "Liones"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1086,
+      "question": "[Nanatsu no Taizai] Qual o nome do irmão mais novo de Meliodas?",
+      "options": [
+        "Zeldris",
+        "Estarossa",
+        "Mael",
+        "Gowther"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1087,
+      "question": "[Fairy Tail] Qual o nome do Dragão que é o pai adotivo de Natsu?",
+      "options": [
+        "Ignia",
+        "Igneel",
+        "Selene",
+        "Viernes"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1088,
+      "question": "[Fairy Tail] Quais são os Magos Classe S da Fairy Tail?",
+      "options": [
+        "Erza, Mirajane, Laxus e Gildarts",
+        "Gildarts, Natsu, Laxus e Erza",
+        "Gildarts, Natsu, Gray e Laxus",
+        "Gildarts, Erza, Laxus e Gray"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1089,
+      "question": "[Fairy Tail] Qual desses não é um dragon slayer da primeira geração?",
+      "options": [
+        "Natsu Dragneel",
+        "Gajeel Redfox",
+        "Wendy Marvell",
+        "Laxus Dreyar"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1090,
+      "question": "[Fairy Tail] Qual é a magia de Erza Scarlet?",
+      "options": [
+        "Magia de Fogo",
+        "Magia de Reequipamento",
+        "Magia de Gelo",
+        "Magia de Ilusão"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1091,
+      "question": "[Fairy Tail] O que significa E.N.D.?",
+      "options": [
+        "Edolas Natsu Devil",
+        "Evergreen Nova Demon",
+        "Enchantment New Doll",
+        "Etherious Natsu Dragneel"
+      ],
+      "correctAnswer": 3,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1092,
+      "question": "[Reborn] Qual animal está na Vongola Box de Tsuna?",
+      "options": [
+        "Guaxinim",
+        "Gato",
+        "Leão",
+        "Coelho"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1093,
+      "question": "[Reborn] O atributo Sol possui qual principal habilidade?",
+      "options": [
+        "Força",
+        "Velocidade",
+        "Regeneração",
+        "Defesa"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1094,
+      "question": "[Reborn] Qual o Arconobaleno responsável pelo treinamento de Ryohei?",
+      "options": [
+        "Reborn",
+        "Colonnello",
+        "Verde",
+        "Skull"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1095,
+      "question": "[Reborn] O que Dino ganhou de Leon quando passou no teste de Reborn?",
+      "options": [
+        "Um chicote e uma tartaruga ",
+        "Uma arma e um cavalo",
+        "Um relógio e um lagarto",
+        "Um anel e uma arma de box"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1096,
+      "question": "[Reborn] Quem entra no lugar de Marmon na Varia?",
+      "options": [
+        "Fran",
+        "Belphegor",
+        "Leviathan",
+        "Gola Mosca"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 1097,
+      "question": "[Sword Art Online] Quantas pessoas acessam e ficam presas no jogo em 6 de novembro de 2022?",
+      "options": [
+        "12.000",
+        "11.000",
+        "10.000",
+        "9.000"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 1098,
+      "question": "[Sword Art Online] Qual é o nome da guilda liderada por Asuna?",
+      "options": [
+        "Cavaleiros de Sangue Sagrado",
+        "Liberdade Sombria",
+        "Espectros de Aincrad",
+        "Guerreiros de Luz"
+      ],
+      "correctAnswer": 0,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 1099,
+      "question": "[Pokémon] Quais os acompanhantes de Ash em Hoenn?",
+      "options": [
+        "Brock, Misty e Tracey",
+        "Brock, May e Max",
+        "Iris e Cilan",
+        "Serena, Clement e Bonnie"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10100,
+      "question": "[Pokémon] Que Pokémon mítico Tobias, adversário que Ash enfrenta na semifinal da Liga Sinnoh, possui?",
+      "options": [
+        "Mewtwo",
+        "Darkrai",
+        "Celebi",
+        "Jirachi"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Difícil"
+    },
+    {
+      "id": 10101,
+      "question": "[Pokémon] Qual é o Pokémon número 1 da Pokédex?",
+      "options": [
+        "Charmander",
+        "Bulbasauro",
+        "Squirtle",
+        "Pikachu"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10102,
+      "question": "[Pokémon] Qual foi o primeiro Pokémon lendário que Ash encontrou?",
+      "options": [
+        "Zapdos",
+        "Articuno",
+        "Ho-Oh",
+        "Giratina"
+      ],
+      "correctAnswer": 2,
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 10103,
+      "question": "[Cowboy Bebop] Qual é o planeta natal de Spike?",
+      "options": [
+        "Terra",
+        "Marte",
+        "Júpiter",
+        "Netuno"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10104,
+      "question": "[Dragon Ball] Qual é o nome do planeta natal de Goku?",
+      "options": [
+        "Terra",
+        "Vegeta",
+        "Namekusei",
+        "Saiyajin"
+      ],
+      "correctAnswer": 1,
+      "dificuldade": "Fácil"
+    }
   ],
   "questionsSeries": [
     {
-      "id": "3001",
-      "question": "Qual desses times o Time Urameshi NÃO enfrenta durante o Torneio das Trevas?",
+      "id": 3001,
+      "question": "[Toy Story] Qual o nome do cavalo parceiro de Woody?",
       "options": [
-        "Time Ichigaki",
-        "Time Uraotogi",
-        "Time Gorenja",
-        "Time Toguro"
+        "Bala no Alvo",
+        "Silver",
+        "Pé de Pano",
+        "Trovão"
       ],
-      "correctAnswer": 2,
-      "dificuldade": "Milhão"
+      "correctAnswer": 0
+    },
+    {
+      "id": 3002,
+      "question": "[How I Met Your Mother] Qual o nome do meio do Ted?",
+      "options": [
+        "Evelyn",
+        "Edward",
+        "Elliot",
+        "Ethan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3003,
+      "question": "[Friends] Qual é o nome da barriga de aluguel de Monica e Chandler?",
+      "options": [
+        "Alice",
+        "Phoebe",
+        "Janice",
+        "Erica"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3004,
+      "question": "[Friends] Por que Susie, interpretada por Julia Roberts, decide se vingar de Chandler deixando-o nu no banheiro de um restaurante?",
+      "options": [
+        "Porque ele espalhou um boato sobre ela no colégio.",
+        "Porque ele colocou um rato em sua mochila na infância.",
+        "Porque ele puxou sua saia na frente da escola toda.",
+        "Porque ele roubou algo importante dela quando eram crianças."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3005,
+      "question": "[Harry Potter] Qual foi o feitiço usado por Rony para fazer com que Draco vomitasse lesmas, mas acidentalmente, ele disparou para si mesmo?",
+      "options": [
+        "Slugulus Vomitus",
+        "Slugulus Eructo",
+        "Slughornus Eructum",
+        "Eructo Slug"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3006,
+      "question": "[Crepúsculo] Em qual ano Edward foi transformado em vampiro?",
+      "options": [
+        "1912",
+        "1901",
+        "1918",
+        "1920"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3007,
+      "question": "[Crepúsculo] Que doença Edward contraiu que o fez ficar à beira da morte?",
+      "options": [
+        "Pneumonia",
+        "Gripe espanhola",
+        "Tuberculose",
+        "Malária"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3008,
+      "question": "[Lilo & Stitch] Qual o número de experiência do Stitch?",
+      "options": [
+        "626",
+        "336",
+        "526",
+        "366"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3009,
+      "question": "[Harry Potter] Qual feitiço foi utilizado por Harry no Clube de Duelos contra Draco Malfoy?",
+      "options": [
+        "Expelliarmus",
+        "Rictusempra",
+        "Serpensortia",
+        "Estupefaça"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3010,
+      "question": "[O Rei Leão] Qual o nome do lugar que Simba vai, assim contrariando uma ordem de seu pai?",
+      "options": [
+        "Terra dos Exilados",
+        "Cemitério dos Elefantes",
+        "Olho d’água",
+        "Vale dos Leões"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3011,
+      "question": "[Procurando Nemo] Qual é o nome do tubarão amigável que Marlin e Dory encontram durante sua jornada?",
+      "options": [
+        "Jack",
+        "Bruce",
+        "Lenny",
+        "Frankie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3012,
+      "question": "[Brooklyn Nine-Nine] Qual é o nome da personagem que trabalha como secretária do departamento?",
+      "options": [
+        "Gina Linetti",
+        "Amy Santiago",
+        "Rosa Diaz",
+        "Marlene"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3013,
+      "question": "[Harry Potter] Quem matou Dobby?",
+      "options": [
+        "Bellatrix Lestrange",
+        "Lucius Malfoy",
+        "Draco Malfoy",
+        "Fenrir Greyback"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3014,
+      "question": "[Harry Potter] Quem dá o vira-tempo para a Hermione?",
+      "options": [
+        "Gilderoy Lockhart",
+        "Severo Snape",
+        "Alvo Dumbledore",
+        "Minerva McGonagall"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3015,
+      "question": "[Harry Potter] Qual o patrono de Luna Lovegood?",
+      "options": [
+        "Cervo",
+        "Leão",
+        "Lebre",
+        "Testrálio"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3016,
+      "question": "[Game of Thrones] Quem foi nomeado protetor do reino até Joffrey Baratheon atingir a maioridade logo após a morte de Robert?",
+      "options": [
+        "Tyrion Lannister",
+        "Ned Stark",
+        "Stannis Baratheon",
+        "Renly Baratheon"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3017,
+      "question": "[Game of Thrones] Qual foi o primeiro dos lobos gigantes a morrer?",
+      "options": [
+        "Fantasma",
+        "Lady",
+        "Verão",
+        "Nymeria"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3018,
+      "question": "[Os Simpsons] A família Simpson tem dois animais de estimação, um gato e um cachorro. Qual é o nome do cachorro?",
+      "options": [
+        "Ajudante de Papai Noel",
+        "Companheiro de Papai Noel",
+        "Duende do Papai Noel",
+        "Amigo de Papai Noel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3019,
+      "question": "[Os Simpsons] Qual o nome da cerveja predileta do Homer?",
+      "options": [
+        "Buzz",
+        "Duff",
+        "Barney's",
+        "Pilsner"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3020,
+      "question": "[Anne with an E] Qual é o nome da atriz que faz a Anne?",
+      "options": [
+        "Isla Fisher",
+        "Emma Watson",
+        "Amybeth McNulty",
+        "Mackenzie Foy"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3021,
+      "question": "[Anne with an E] Qual é o nome do professor de Anne?",
+      "options": [
+        "Matthew Cuthbert",
+        "Gilbert Blythe",
+        "Mr. Phillips",
+        "Marilla Cuthbert"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3022,
+      "question": "[Percy Jackson] Qual o nome da mãe de Percy?",
+      "options": [
+        "Misty",
+        "Sally",
+        "Rachel",
+        "Victoria"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3023,
+      "question": "[Percy Jackson e a Batalha do Labirinto] Qual a regra que Annabeth quebra?",
+      "options": [
+        "Não entrar no Labirinto sem permissão",
+        "Não confiar em humanos",
+        "Não usar magia para resolver problemas",
+        "Não revelar segredos aos outros sem autorização"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3024,
+      "question": "[Percy Jackson e a Batalha do Labirinto] Qual a regra que Annabeth quebra?",
+      "options": [
+        "Ela leva uma mortal, Rachel, para o Labirinto de Dédalo.",
+        "Parte para uma missão sem a permissão de Quíron.",
+        "Leva três pessoas com ela em sua missão, ao invés de duas.",
+        "Traz criaturas perigosas para dentro do Acampamento Meio-Sangue."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3025,
+      "question": "[Percy Jackson] Qual o local onde Bianca e Nico ficaram presos por anos?",
+      "options": [
+        "Submundo",
+        "Hotel e Cassino Lótus",
+        "Acampamento Meio-Sangue",
+        "Olimpo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3026,
+      "question": "[Os Vingadores] Qual joia Thanos pegou do Dr. Estranho?",
+      "options": [
+        "Alma",
+        "Realidade",
+        "Poder",
+        "Tempo"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3027,
+      "question": "[Os Vingadores] Qual a cor da joia do espaço?",
+      "options": [
+        "Roxa",
+        "Verde",
+        "Azul",
+        "Vermelha"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3028,
+      "question": "[A Era do Gelo] No terceiro filme, Sid encontra ovos de dinossauro no subsolo, e adota estes ovos como seus filhos. Qual é o nome que o Sid dá para estes ovos?",
+      "options": [
+        "Gema, Claudio e Ovo.",
+        "Ovaldo, Gemário e Sid Junior.",
+        "Clara, Gemário e Ovaldo.",
+        "Clara, Ovaldo e Sid Junior."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3029,
+      "question": "[Shrek] Em qual animal o pai de Fiona se transforma?",
+      "options": [
+        "Gato",
+        "Cavalo",
+        "Esquilo",
+        "Sapo"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3030,
+      "question": "[Madagascar] Os quatro pinguins são: Capitão, Recruta, Kowalski e...",
+      "options": [
+        "Rico",
+        "Balthazar",
+        "Chuck",
+        "Skipper"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3031,
+      "question": "[Piratas do Caribe] Qual era a profissão de Will Turner antes de se tornar um pirata?",
+      "options": [
+        "Carpinteiro",
+        "Marinheiro",
+        "Cavaleiro",
+        "Ferreiro"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3032,
+      "question": "[O Senhor dos Anéis] Gandalf se tornou um poderoso mago branco após matar uma criatura de sombra e chamas acordada pelos anões chamada de:",
+      "options": [
+        "Nazgul",
+        "Smaug",
+        "Balrog",
+        "Sauron"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3033,
+      "question": "[O Senhor dos Anéis] Como era o nome do pai de Legolas?",
+      "options": [
+        "Thranduil",
+        "Elrond",
+        "Arathorn",
+        "Celeborn"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3034,
+      "question": "[Piratas do Caribe] Qual o cargo do pai de Elizabeth Swan?",
+      "options": [
+        "Prefeito de Port Royal",
+        "Governador de Port Royal",
+        "Senador de Port Royal",
+        "Rei de Port Royal"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3035,
+      "question": "[O Senhor dos Anéis] Onde Frodo, Sam, Merry e Pippin se encontraram pela primeira vez com Passolargo (Aragorn)?",
+      "options": [
+        "Em Minas Tirith",
+        "Em Valfenda",
+        "Na Taverna do Pônei Saltitante",
+        "Em Isengard"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3036,
+      "question": "[O Senhor dos Anéis] Qual o grau de parentesco entre Bilbo e Frodo?",
+      "options": [
+        "Avô e Neto",
+        "Tio e Sobrinho",
+        "Pai e Filho",
+        "Primos"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3037,
+      "question": "[O Estranho Mundo de Jack] Qual o nome do cachorro fantasma de Jack?",
+      "options": [
+        "Zero",
+        "Flit",
+        "Boo",
+        "Jackie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3038,
+      "question": "[O Estranho Mundo de Jack] No filme, Jack 'inventa' uma sátira do Papai Noel. Como ele se chama?",
+      "options": [
+        "Papai Halloween",
+        "Sombra Noel",
+        "Papai Sombra",
+        "Papai Cruel"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3039,
+      "question": "[Jogos Vorazes] Qual o nome do estilista de Peeta?",
+      "options": [
+        "Cinna",
+        "Portia",
+        "Flavius",
+        "Octavia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3040,
+      "question": "[Jogos Vorazes] Qual é o nome do mentor da Katniss e do Peeta?",
+      "options": [
+        "Haymitch Abernathy",
+        "Seneca Crane",
+        "Effie Trinket",
+        "Cinna"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3041,
+      "question": "[Jogos Vorazes] Como ficam conhecidos Peeta e Katniss?",
+      "options": [
+        "Os Rebeldes",
+        "Os Amantes Desafortunados",
+        "Os Amantes de Ouro",
+        "Os Espinhos de Panem"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3042,
+      "question": "[Jogos Vorazes] De que distrito eram Cato e Clove?",
+      "options": [
+        "Distrito 1",
+        "Distrito 2",
+        "Distrito 3",
+        "Distrito 4"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3043,
+      "question": "[Breaking Bad] Qual o nome do químico contratado por Gus Fring para auxiliar Walter White?",
+      "options": [
+        "Gale Boetticher",
+        "Hank Schrader",
+        "Mike Ehrmantraut",
+        "Saul Goodman"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3044,
+      "question": "[Friends] Qual o nome do macaco de estimação do Ross?",
+      "options": [
+        "Paolo",
+        "Billy",
+        "Charlie",
+        "Marcel"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3045,
+      "question": "[Friends] Qual é o nome da filha de Ross e Rachel?",
+      "options": [
+        "Emma",
+        "Sophie",
+        "Maya",
+        "Lily"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3046,
+      "question": "[The Big Bang Theory] Em qual universidade Howard Wolowitz fez seu mestrado?",
+      "options": [
+        "Harvard",
+        "MIT",
+        "Caltech",
+        "Princeton"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3047,
+      "question": "[Breaking Bad] Qual é o nome da esposa de Hank?",
+      "options": [
+        "Marie",
+        "Skyler",
+        "Jessica",
+        "Carmen"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3048,
+      "question": "[Avatar: The Last Airbender] Onde nasceu Aang?",
+      "options": [
+        "Templo do Ar do Norte",
+        "Templo do Ar do Leste",
+        "Templo do Ar do Oeste",
+        "Templo do Ar do Sul"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3049,
+      "question": "[Bob Esponja] Qual é o nome da filha do Seu Sirigueijo?",
+      "options": [
+        "Rosa",
+        "Pérola",
+        "Margarida",
+        "Patrícia"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3050,
+      "question": "[The Vampire Diaries] Que personagem aparece e se torna o amor da vida da Bonnie até o fim da série?",
+      "options": [
+        "Jeremy Gilbert",
+        "Enzo St. John",
+        "Stefan Salvatore",
+        "Damon Salvatore"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3051,
+      "question": "[The Vampire Diaries] Quais são os nomes dos pais biológicos de Elena Gilbert?",
+      "options": [
+        "Damon e Katherine",
+        "Stefan e Lily",
+        "John e Isobel",
+        "Tyler e Caroline"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3052,
+      "question": "[Bob Esponja] Onde Seu Siriguejo mora?",
+      "options": [
+        "Em um abacaxi",
+        "Em uma pedra",
+        "Em uma âncora",
+        "Em um barco"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3053,
+      "question": "[Star Wars] Qual planeta é governado pela Rainha Amidala?",
+      "options": [
+        "Tatooine",
+        "Naboo",
+        "Coruscant",
+        "Alderaan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3054,
+      "question": "[Star Wars] Quantos sóis tem o planeta Tatooine?",
+      "options": [
+        "'Nenhum'",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3055,
+      "question": "[Star Wars] Qual a raça do personagem Chewbacca?",
+      "options": [
+        "Wookiee",
+        "Ewok",
+        "Rodian",
+        "Mon Calamari"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3056,
+      "question": "[Star Wars] Quem é o responsável pela morte de Qui-Gon Jinn no filme 'A Ameaça Fantasma'?",
+      "options": [
+        "Conde Dooku",
+        "Darth Sidious",
+        "Anakin Skywalker",
+        "Darth Maul"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3057,
+      "question": "[Star Wars] Leia Organa era princesa de qual planeta, o qual foi destruído pela primeira Estrela da Morte no filme 'Uma Nova Esperança'?",
+      "options": [
+        "Tatooine",
+        "Alderaan",
+        "Coruscant",
+        "Naboo"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3058,
+      "question": "[High School Musical] Qual o número da camisa do Troy Bolton?",
+      "options": [
+        "14",
+        "10",
+        "23",
+        "7"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3059,
+      "question": "[Matrix] Qual era o outro nome de Neo?",
+      "options": [
+        "Liam Anderson",
+        "Albert Anderson",
+        "Henry Anderson",
+        "Thomas Anderson"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3060,
+      "question": "[Matrix] Qual o nome da nave para onde Neo é levado após escolher a pílula vermelha?",
+      "options": [
+        "Orpheus",
+        "Mercúrio",
+        "Icarus",
+        "Nabucodonosor"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3061,
+      "question": "[Crepúsculo] Qual o dia do casamento de Bella e Edward?",
+      "options": [
+        "15 de julho",
+        "13 de agosto",
+        "10 de setembro",
+        "22 de junho"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3062,
+      "question": "[Scooby-Doo] Qual é o nome verdadeiro de Salsicha?",
+      "options": [
+        "Norman Reed",
+        "Neville Rogers",
+        "Norville Rogers",
+        "Shaggy Brown"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3063,
+      "question": "[Grey's Anatomy] Qual o nome da primeira esposa de Richard Webber?",
+      "options": [
+        "Ellis Grey",
+        "Miranda Bailey",
+        "Adele Webber",
+        "Catherine Avery"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3064,
+      "question": "[Grey's Anatomy] Como George O'Malley morre?",
+      "options": [
+        "Atropelado por um ônibus enquanto salva alguém",
+        "Em um acidente de carro a caminho do hospital",
+        "Durante uma cirurgia de emergência",
+        "Após ser ferido em um incêndio"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3065,
+      "question": "[Grey's Anatomy] Quais foram as duas esposas de Owen Hunt?",
+      "options": [
+        "Meredith Grey e Amelia Shepherd",
+        "Cristina Yang e Amelia Shepherd",
+        "Callie Torres e Teddy Altman",
+        "Jo Wilson e Cristina Yang"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3066,
+      "question": "[Hora de Aventura] Quem é a esposa de Jake?",
+      "options": [
+        "Princesa Frutinhas",
+        "Marceline",
+        "Lady Íris",
+        "Princesa Cachorro Quente"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3067,
+      "question": "[Branca de Neve] Qual o motivo da Rainha Má odiar Branca de Neve?",
+      "options": [
+        "Porque Branca de Neve era mais inteligente que ela.",
+        "Porque Branca de Neve era mais bela que ela.",
+        "Porque Branca de Neve era a filha de seu inimigo.",
+        "Porque Branca de Neve roubou seu príncipe."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3068,
+      "question": "[Branca de Neve] Qual o nome do príncipe que desperta Branca de Neve?",
+      "options": [
+        "Phillip",
+        "Eric",
+        "Florian",
+        "Adam"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3069,
+      "question": "[O Rei Leão] Qual é o nome da melhor amiga de Simba?",
+      "options": [
+        "Nala",
+        "Zazu",
+        "Kiara",
+        "Rafiki"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3070,
+      "question": "[Cinderela] Qual o animal de estimação da madrasta de Cinderela?",
+      "options": [
+        "Um pássaro",
+        "Um cão",
+        "Um gato",
+        "Um rato"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3071,
+      "question": "[Cinderela] Qual a frase mágica dita pela fada madrinha para realizar as transformações?",
+      "options": [
+        "Abracadabra",
+        "Bibbidi-Bobbidi-Boo",
+        "Alakazam",
+        "Hocus Pocus"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3072,
+      "question": "[Moana] Qual o nome da avó de Moana?",
+      "options": [
+        "Vovó Lena",
+        "Vovó Yzma",
+        "Vovó Tala",
+        "Vovó Fauna"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3073,
+      "question": "[Moana] Qual é o nome do animal de estimação de Moana?",
+      "options": [
+        "Max",
+        "Olaf",
+        "Bruno",
+        "Pua"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3074,
+      "question": "[Monstros S.A.] Qual o nome da cidade onde os monstros moram?",
+      "options": [
+        "Monstropolis",
+        "Terrorville",
+        "Cidade Assustadora",
+        "Medolândia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3075,
+      "question": "[Breaking Bad] Qual o tipo do câncer que Walter White é diagnosticado?",
+      "options": [
+        "Linfoma",
+        "Câncer de pulmão",
+        "Câncer de próstata",
+        "Tumor cerebral"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3076,
+      "question": "[Breaking Bad] Qual o destino final de Jesse Pinkman?",
+      "options": [
+        "É preso pela polícia.",
+        "Morre assassinado por Jack e seus homens.",
+        "Continua produzindo metanfetamina.",
+        "Foge para o Alasca com o dinheiro de Walter."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3077,
+      "question": "[Scooby Doo] Em 'Scooby Doo 2 - Monstros a Solta', qual a arma secreta utilizada por Scooby-Doo para derrotar o Monstro do Piche?",
+      "options": [
+        "Uma rede",
+        "Uma bola de futebol",
+        "Um extintor de incêndio",
+        "Um spray de pimenta"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3078,
+      "question": "[Modern Family] Qual o nome do palhaço interpretado por Cameron?",
+      "options": [
+        "Twisty",
+        "Stooge",
+        "Fizbo",
+        "Ronald"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3079,
+      "question": "[Modern Family] Qual a profissão de Phil Dunphy?",
+      "options": [
+        "Comediante",
+        "Corretor de imóveis",
+        "Arquiteto",
+        "Professor de história"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3080,
+      "question": "[Modern Family] Qual o nome da cachorrinha de Jay Pritchett?",
+      "options": [
+        "Coco",
+        "Bella",
+        "Daisy",
+        "Stella"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3081,
+      "question": "[Kung Fu Panda] Qual o nome do pai adotivo de Po?",
+      "options": [
+        "Senhor Shifu",
+        "Senhor Wonton",
+        "Senhor Crocante",
+        "Senhor Ping"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3082,
+      "question": "[Jogos Vorazes] Qual a importância do Distrito 13 na história?",
+      "options": [
+        "É o distrito mais rico de Panem",
+        "É o esconderijo secreto dos rebeldes",
+        "É o local onde os Jogos Vorazes são realizados",
+        "É o distrito natal de Peeta Mellark"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3083,
+      "question": "[Jogos Vorazes] Qual o destino final de Coin após a queda de Snow?",
+      "options": [
+        "Se suicida",
+        "Torna-se presidente de Panem",
+        "Foge para outro país",
+        "É morta por Katniss"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3084,
+      "question": "[A Bela e a Fera] Qual a verdadeira razão pela qual a Fera foi amaldiçoada?",
+      "options": [
+        "Por ter caçado a corsa dourada.",
+        "Por ter negado abrigo a bruxa disfarçada.",
+        "Por ter se recusado a ajudar um animal ferido.",
+        "Por ter sido invejoso com outro príncipe."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3085,
+      "question": "[A Bela e a Fera] Qual o nome da criada que se transforma em uma chaleira no castelo da Fera?",
+      "options": [
+        "Samovar",
+        "Plumette",
+        "Cogsworth",
+        "Chip"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3086,
+      "question": "[Jurassic Park] Qual a função do gene da rã na criação dos dinossauros?",
+      "options": [
+        "Completar o DNA faltante.",
+        "Tornar os dinossauros maiores.",
+        "Permitir que os dinossauros se reproduzam assexuadamente.",
+        "Tornar os dinossauros mais inteligentes."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3087,
+      "question": "[Clube da Luta] Qual a verdadeira razão pela qual o Narrador frequenta os grupos de apoio?",
+      "options": [
+        "Para encontrar amigos.",
+        "Para lidar com a insônia.",
+        "Para chamar a atenção de Marla Singer.",
+        "Para ajudar Tyler Durden"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3088,
+      "question": "[Harry Potter] Qual a verdadeira identidade do Príncipe Mestiço?",
+      "options": [
+        "Severus Snape.",
+        "Lucius Malfoy.",
+        "Sirius Black.",
+        "Remus Lupin."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3089,
+      "question": "[Os Padrinhos Mágicos] Qual é o nome do cachorro do Timmy Turner?",
+      "options": [
+        "Bob",
+        "Spanky",
+        "Cosmo",
+        "Poof"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3090,
+      "question": "[Os Simpsons] Qual é o nome da primeira esposa de Ned Flanders?",
+      "options": [
+        "Maude",
+        "Edna",
+        "Helen",
+        "Marge"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3091,
+      "question": "[How I Met Your Mother] Qual o nome do bar favorito do grupo, onde passam a maior parte do tempo?",
+      "options": [
+        "MacLaren's",
+        "Central Perk",
+        "Cheers",
+        "Taverna do Moe"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3092,
+      "question": "[Tartarugas Ninja] Qual o nome da substância mutante que transformou as tartarugas e Splinter em seres humanoides?",
+      "options": [
+        "Elixir X",
+        "Mutagen",
+        "Ooze",
+        "Serum S"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3093,
+      "question": "[Tartarugas Ninja] Qual o sabor de pizza favorita de Michelangelo?",
+      "options": [
+        "Pizza de pepperoni",
+        "Pizza de queijo",
+        "Pizza de cogumelos",
+        "Pizza de anchova"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 3094,
+      "question": "[Tartarugas Ninja] Qual arma é utilizada por Raphael?",
+      "options": [
+        "Katana",
+        "Nunchakus",
+        "Bastão",
+        "Adagas Sai"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 3095,
+      "question": "[Os Padrinhos Mágicos] Qual destes insetos é imune à Magia das Fadas?",
+      "options": [
+        "Formigas",
+        "Baratas",
+        "Mosquitos",
+        "Abelhas"
+      ],
+      "correctAnswer": 1
     }
   ],
   "aberturas": [
@@ -2387,7 +4951,7 @@
       "title": "Kill la Kill",
       "options": [
         "JoJo Bizarre Adventure",
-        "One Piece",
+        "Tokyo Revengers",
         "Kill la Kill",
         "Fairy Tail"
       ],
@@ -2497,7 +5061,7 @@
       ],
       "inicial": "0",
       "final": "25",
-      "url": "https://www.youtube.com/watch?v=y1QfqRTPUJI"
+      "url": "https://www.youtube.com/watch?v=KwCfHVGamn8"
     },
     {
       "id": "2052",
@@ -2596,7 +5160,7 @@
       "options": [
         "Gintama",
         "Fullmetal Alchemist Brotherhood",
-        "Fire Force",
+        "Wind Breaker",
         "Pokémon"
       ],
       "inicial": "0",
@@ -2653,7 +5217,7 @@
       ],
       "inicial": "5",
       "final": "30",
-      "url": "https://www.youtube.com/watch?v=XMeQeIG_rQg"
+      "url": "https://www.youtube.com/watch?v=5zSx8QD-fkA"
     },
     {
       "id": "2064",
@@ -2693,7 +5257,7 @@
       "inicial": "42",
       "final": "67",
       "url": "https://www.youtube.com/watch?v=ayx9WvHMHU8"
-    },    
+    },
     {
       "id": "2067",
       "title": "Naruto Shippuuden",
@@ -2706,7 +5270,7 @@
       "inicial": "24",
       "final": "49",
       "url": "https://www.youtube.com/watch?v=ZR5ZCVQ0puE"
-    },    
+    },
     {
       "id": "2068",
       "title": "Naruto Shippuuden",
@@ -2719,7 +5283,7 @@
       "inicial": "43",
       "final": "68",
       "url": "https://www.youtube.com/watch?v=VMkg2F4QfIA"
-    },    
+    },
     {
       "id": "2069",
       "title": "Naruto Shippuuden",
@@ -2732,7 +5296,7 @@
       "inicial": "7",
       "final": "32",
       "url": "https://www.youtube.com/watch?v=kmL3EuiiWXM"
-    },    
+    },
     {
       "id": "2070",
       "title": "Naruto Shippuuden",
@@ -2745,7 +5309,7 @@
       "inicial": "32",
       "final": "57",
       "url": "https://www.youtube.com/watch?v=P1yJ51DH-18"
-    },    
+    },
     {
       "id": "2071",
       "title": "Dragon Ball Super",
@@ -2758,7 +5322,7 @@
       "inicial": "32",
       "final": "57",
       "url": "https://www.youtube.com/watch?v=3vD4kl59-mc"
-    },    
+    },
     {
       "id": "2072",
       "title": "Dragon Ball Z",
@@ -2779,12 +5343,12 @@
         "Sousou no Frieren",
         "Nana",
         "Os Cavaleiros do Zodíaco",
-        "Elfen Lied"
+        "Fruits Basket"
       ],
       "inicial": "23",
       "final": "48",
       "url": "https://www.youtube.com/watch?v=Sr-arGycW7g"
-    },    
+    },
     {
       "id": "2074",
       "title": "Os Cavaleiros do Zodíaco",
@@ -2797,13 +5361,13 @@
       "inicial": "3",
       "final": "28",
       "url": "https://www.youtube.com/watch?v=JUJP5eAxcIA"
-    },    
+    },
     {
       "id": "2075",
       "title": "Bleach",
       "options": [
         "Naruto Shippuuden",
-        "Dragon Ball Z",
+        "Wind Breaker",
         "Bleach",
         "Yuyu Hakusho"
       ],
@@ -2854,7 +5418,7 @@
       "id": "2079",
       "title": "Sousou no Frieren",
       "options": [
-        "K-ON!",
+        "Wotakoi",
         "Erased",
         "Sword Art Online",
         "Sousou no Frieren"
@@ -2867,7 +5431,7 @@
       "id": "2080",
       "title": "Dungeon Meshi",
       "options": [
-        "Kaguya-sama wa Kokurasetai",
+        "Wotakoi",
         "SpyxFamily",
         "Dungeon Meshi",
         "Fruits Basket"
